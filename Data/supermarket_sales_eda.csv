@@ -1,0 +1,1004 @@
+Invoice_ID,Branch,City,Customer_Type,Gender,Product_Line,Unit_Price,Quantity,Tax_5_Percent,Total,Date,Time,Payment,COGS,Gross_Income,Rating
+INV-00001,A,Rajkot,Member,Male,Home and lifestyle,77.52,3,11.63,244.19,5/5/2025,19:10,Ewallet,232.56,11.63,8.6
+INV-00002,A,Gandhinagar,Member,Female,Fashion accessories,23.68,2,2.37,49.73,4/28/2025,12:40,Credit card,47.36,2.37,7
+INV-00003,C,Vadodara,Normal,Female,Health and beauty,51.25,3,7.69,161.44,3/21/2025,10:40,Credit card,153.75,7.69,6.6
+INV-00004,B,Gandhinagar,Normal,Male,Electronic accessories,41.61,6,12.48,262.14,4/4/2025,14:40,Ewallet,249.66,12.48,8.5
+INV-00005,A,Gandhinagar,Normal,Female,Food and beverages,18.44,3,2.77,58.09,3/6/2025,12:20,Ewallet,55.32,2.77,6.9
+INV-00006,C,Surat,Normal,Male,Fashion accessories,53.75,10,26.88,564.38,3/29/2025,10:40,Cash,537.5,26.88,4.3
+INV-00007,B,Vadodara,Member,Female,Health and beauty,92.87,5,23.22,487.57,3/29/2025,17:10,Credit card,464.35,23.22,5
+INV-00008,A,Vadodara,Normal,Male,Health and beauty,13.61,6,4.08,85.74,5/25/2025,20:20,Ewallet,81.66,4.08,7.5
+INV-00009,B,Vadodara,Normal,Female,Electronic accessories,36.23,8,14.49,304.33,5/6/2025,15:40,Ewallet,289.84,14.49,6.9
+INV-00010,C,Gandhinagar,Member,Male,Home and lifestyle,28.68,7,10.04,210.8,3/30/2025,18:20,Cash,200.76,10.04,8.9
+INV-00011,A,Rajkot,Member,Female,Health and beauty,31.43,8,12.57,264.01,3/2/2025,12:10,Cash,251.44,12.57,6
+INV-00012,B,Vadodara,Normal,Female,Food and beverages,91.76,3,13.76,289.04,1/15/2025,18:40,Ewallet,275.28,13.76,6.6
+INV-00013,A,Gandhinagar,Member,Male,Health and beauty,52.13,4,10.43,218.95,4/4/2025,18:00,Cash,208.52,10.43,5.9
+INV-00014,B,Surat,Member,Male,Food and beverages,51.97,6,15.59,327.41,2/20/2025,10:50,Ewallet,311.82,15.59,6.3
+INV-00015,C,Rajkot,Member,Male,Fashion accessories,78.45,7,27.46,576.61,1/27/2025,12:10,Credit card,549.15,27.46,4.5
+INV-00016,C,Surat,Member,Male,Fashion accessories,23.9,9,10.76,225.86,3/15/2025,15:30,Cash,215.1,10.76,6.5
+INV-00017,A,Rajkot,Member,Female,Sports and travel,53.85,1,2.69,56.54,3/2/2025,17:30,Credit card,53.85,2.69,6.9
+INV-00018,B,Gandhinagar,Member,Female,Sports and travel,48.7,8,19.48,409.08,1/31/2025,13:10,Credit card,389.6,19.48,6.8
+INV-00019,A,Ahmedabad,Member,Male,Food and beverages,63.72,8,25.49,535.25,1/12/2025,14:30,Credit card,509.76,25.49,9.8
+INV-00020,A,Rajkot,Member,Female,Home and lifestyle,99.96,6,29.99,629.75,2/15/2025,18:10,Ewallet,599.76,29.99,9.4
+INV-00021,B,Surat,Normal,Male,Health and beauty,79.25,4,15.85,332.85,6/8/2025,15:00,Credit card,317,15.85,6
+INV-00022,B,Gandhinagar,Member,Male,Health and beauty,45.81,3,6.87,144.3,2/1/2025,16:10,Credit card,137.43,6.87,4.3
+INV-00023,B,Rajkot,Member,Female,Sports and travel,84.48,3,12.67,266.11,6/9/2025,16:40,Credit card,253.44,12.67,6.9
+INV-00024,C,Ahmedabad,Member,Female,Food and beverages,25.36,6,7.61,159.77,6/30/2025,13:40,Ewallet,152.16,7.61,7.5
+INV-00025,A,Ahmedabad,Normal,Female,Health and beauty,12.74,8,5.1,107.02,3/2/2025,13:20,Credit card,101.92,5.1,
+INV-00026,A,Vadodara,Member,Female,Health and beauty,28.4,7,9.94,208.74,2/15/2025,13:30,Credit card,198.8,9.94,5.9
+INV-00027,C,Vadodara,Member,Female,Home and lifestyle,40.64,1,2.03,42.67,3/26/2025,20:50,Cash,40.64,2.03,
+INV-00028,B,Surat,Normal,Female,Electronic accessories,55.95,6,16.78,352.48,3/21/2025,14:30,Ewallet,335.7,16.78,6.7
+INV-00029,C,Rajkot,Normal,Female,Sports and travel,65.36,7,22.88,480.4,5/15/2025,14:10,Credit card,457.52,22.88,7.9
+INV-00030,C,Rajkot,Member,Male,Sports and travel,91.95,7,32.18,675.83,1/4/2025,17:50,Cash,643.65,32.18,5.8
+INV-00031,C,Vadodara,Normal,Male,Electronic accessories,55.89,9,25.15,528.16,2/21/2025,18:50,Ewallet,503.01,25.15,6.9
+INV-00032,A,Rajkot,Member,Male,Health and beauty,55.11,10,27.56,578.66,6/8/2025,11:30,Ewallet,551.1,27.56,6.6
+INV-00033,C,Rajkot,Member,Male,Home and lifestyle,14.52,5,3.63,76.23,4/22/2025,20:50,Ewallet,72.6,3.63,6.1
+INV-00034,A,Ahmedabad,Member,Male,Home and lifestyle,13.14,1,0.66,13.8,2/5/2025,16:50,Ewallet,13.14,0.66,8.5
+INV-00035,A,Vadodara,Member,Female,Sports and travel,59.6,2,5.96,125.16,2/23/2025,10:40,Ewallet,119.2,5.96,5.2
+INV-00036,A,Gandhinagar,Normal,Male,Home and lifestyle,49.44,4,9.89,207.65,4/29/2025,10:00,Ewallet,197.76,9.89,7.4
+INV-00037,B,Vadodara,Member,Male,Fashion accessories,85.53,5,21.38,449.03,5/7/2025,13:10,Credit card,427.65,21.38,6.5
+INV-00038,A,Gandhinagar,Member,Male,Electronic accessories,24.46,9,11.01,231.15,1/17/2025,19:30,Credit card,220.14,11.01,7.5
+INV-00039,A,Ahmedabad,Normal,Male,Health and beauty,12.25,1,0.61,12.86,3/16/2025,16:40,Credit card,12.25,0.61,6.6
+INV-00040,B,Surat,Normal,Male,Fashion accessories,50.41,3,7.56,158.79,6/7/2025,11:20,Credit card,151.23,7.56,8.1
+INV-00041,A,Rajkot,Member,Male,Electronic accessories,31.37,5,7.84,164.69,4/15/2025,20:50,Cash,156.85,7.84,5.8
+INV-00042,C,Ahmedabad,Normal,Male,Food and beverages,14.47,3,2.17,45.58,5/30/2025,11:50,Credit card,43.41,2.17,8.5
+INV-00043,C,Rajkot,Member,Female,Sports and travel,75.21,4,15.04,315.88,4/27/2025,10:30,Ewallet,300.84,15.04,7
+INV-00044,A,Surat,Normal,Female,Home and lifestyle,20.04,3,3.01,63.13,2/12/2025,19:00,Credit card,60.12,3.01,5.3
+INV-00045,B,Surat,Normal,Male,Food and beverages,64.75,4,12.95,271.95,4/22/2025,11:00,Credit card,259,12.95,7.9
+INV-00046,C,Ahmedabad,Normal,Female,Home and lifestyle,35.29,1,1.76,37.05,4/25/2025,16:30,Ewallet,35.29,1.76,6.7
+INV-00047,B,Surat,Member,Female,Fashion accessories,25.61,8,10.24,215.12,1/27/2025,18:30,Credit card,204.88,10.24,4.8
+INV-00048,B,Gandhinagar,Member,Female,Health and beauty,44.18,4,8.84,185.56,2/6/2025,15:40,Credit card,176.72,8.84,7.4
+INV-00049,C,Surat,Member,Female,Health and beauty,82.13,7,28.75,603.66,2/15/2025,19:30,Credit card,574.91,28.75,8.3
+INV-00050,B,Rajkot,Member,Male,Health and beauty,45.29,2,4.53,95.11,4/23/2025,11:20,Cash,90.58,4.53,8.7
+INV-00051,C,Rajkot,Member,Female,Home and lifestyle,77.57,2,7.76,162.9,2/4/2025,19:40,Credit card,155.14,7.76,6.5
+INV-00052,B,Rajkot,Normal,Female,Food and beverages,21.29,6,6.39,134.13,5/12/2025,19:50,Ewallet,127.74,6.39,7.2
+INV-00053,C,Rajkot,Member,Female,Health and beauty,79.55,2,7.96,167.06,3/21/2025,18:50,Ewallet,159.1,7.96,7.1
+INV-00054,A,Gandhinagar,Member,Male,Food and beverages,31.32,6,9.4,197.32,3/21/2025,16:50,Credit card,187.92,9.4,8.9
+INV-00055,C,Vadodara,Normal,Male,Home and lifestyle,70.97,2,7.1,149.04,6/3/2025,20:50,Credit card,141.94,7.1,5.9
+INV-00056,C,Ahmedabad,Member,Male,Fashion accessories,60.92,4,12.18,255.86,5/1/2025,10:10,Credit card,243.68,12.18,6.4
+INV-00057,C,Rajkot,Normal,Male,Food and beverages,93.62,7,32.77,688.11,5/27/2025,18:20,Ewallet,655.34,32.77,5.9
+INV-00058,C,Surat,Member,Male,Fashion accessories,44.86,8,17.94,376.82,5/2/2025,11:40,Ewallet,358.88,17.94,5.1
+INV-00059,B,Rajkot,Member,Male,Home and lifestyle,15.95,3,2.39,50.24,3/22/2025,13:40,Cash,47.85,2.39,7.3
+INV-00060,A,Surat,Member,Male,Home and lifestyle,11.72,9,5.27,110.75,6/22/2025,18:50,Cash,105.48,5.27,9.1
+INV-00061,C,Surat,Member,Female,Sports and travel,84.42,2,8.44,177.28,6/3/2025,13:00,Cash,168.84,8.44,6.7
+INV-00062,B,Rajkot,Normal,Female,Home and lifestyle,57.23,8,22.89,480.73,5/30/2025,12:40,Ewallet,457.84,22.89,5.9
+INV-00063,A,Gandhinagar,Member,Female,Home and lifestyle,79.77,8,31.91,670.07,4/29/2025,10:20,Cash,638.16,31.91,7.2
+INV-00064,A,Surat,Member,Male,Electronic accessories,31.1,4,6.22,130.62,2/27/2025,16:30,Credit card,124.4,6.22,7.8
+INV-00065,A,Surat,Member,Male,Health and beauty,41.06,1,2.05,43.11,3/4/2025,15:20,Credit card,41.06,2.05,6.8
+INV-00066,A,Rajkot,Member,Male,Sports and travel,12.71,1,0.64,13.35,6/5/2025,19:50,Ewallet,12.71,0.64,8.8
+INV-00067,C,Surat,Normal,Male,Sports and travel,96.53,2,9.65,202.71,6/21/2025,13:50,Cash,193.06,9.65,5.9
+INV-00068,C,Surat,Member,Male,Sports and travel,70.11,9,31.55,662.54,4/10/2025,15:10,Credit card,630.99,31.55,6.6
+INV-00069,B,Rajkot,Normal,Female,Electronic accessories,93.99,2,9.4,197.38,6/20/2025,15:40,Ewallet,187.98,9.4,7.4
+INV-00070,B,Rajkot,Normal,Female,Fashion accessories,33.89,2,3.39,71.17,6/14/2025,13:40,Cash,67.78,3.39,7.5
+INV-00071,B,Ahmedabad,Member,Male,Home and lifestyle,65.03,6,19.51,409.69,3/7/2025,15:40,Credit card,390.18,19.51,7.1
+INV-00072,A,Gandhinagar,Normal,Male,Health and beauty,71.06,7,24.87,522.29,5/25/2025,19:50,Cash,497.42,24.87,5.3
+INV-00073,A,Gandhinagar,Member,Male,Food and beverages,38.58,7,13.5,283.56,6/17/2025,20:40,Ewallet,270.06,13.5,10
+INV-00074,C,Surat,Member,Male,Fashion accessories,86.33,9,38.85,815.82,6/15/2025,17:00,Cash,776.97,38.85,6.7
+INV-00075,A,Gandhinagar,Member,Female,Home and lifestyle,95.24,6,28.57,600.01,3/26/2025,12:00,Ewallet,571.44,28.57,7.1
+INV-00076,A,Surat,Normal,Male,Electronic accessories,89.64,8,35.86,752.98,5/17/2025,13:30,Cash,717.12,35.86,7.8
+INV-00077,A,Ahmedabad,Normal,Male,Home and lifestyle,76.52,6,22.96,482.08,5/24/2025,19:40,Credit card,459.12,22.96,6.2
+INV-00078,B,Rajkot,Member,Male,Home and lifestyle,34.97,2,3.5,73.44,5/3/2025,10:10,Ewallet,69.94,3.5,7.1
+INV-00079,B,Rajkot,Normal,Male,Electronic accessories,35.35,1,1.77,37.12,1/2/2025,13:30,Ewallet,35.35,1.77,6.1
+INV-00080,C,Rajkot,Member,Female,Sports and travel,96.7,5,24.18,507.68,4/16/2025,20:50,Ewallet,483.5,24.18,7.5
+INV-00081,A,Gandhinagar,Member,Male,Sports and travel,10.93,9,4.92,103.29,4/18/2025,19:40,Cash,98.37,4.92,6.6
+INV-00082,A,Ahmedabad,Member,Male,Health and beauty,74.44,8,29.78,625.3,3/13/2025,19:00,Cash,595.52,29.78,7.3
+INV-00083,C,Gandhinagar,Normal,Female,Health and beauty,73.56,4,14.71,308.95,6/20/2025,18:10,Credit card,294.24,14.71,5.6
+INV-00084,A,Gandhinagar,Normal,Female,Sports and travel,66.04,5,16.51,346.71,5/6/2025,17:30,Ewallet,330.2,16.51,5.9
+INV-00085,A,Ahmedabad,Member,Female,Fashion accessories,99.11,5,24.78,520.33,6/19/2025,20:10,Ewallet,495.55,24.78,5.2
+INV-00086,B,Ahmedabad,Member,Male,Food and beverages,38.07,6,11.42,239.84,2/26/2025,13:40,Cash,228.42,11.42,6.1
+INV-00087,C,Ahmedabad,Member,Male,Home and lifestyle,40.6,3,6.09,127.89,3/22/2025,16:20,Cash,121.8,6.09,4
+INV-00088,C,Ahmedabad,Member,Female,Food and beverages,17.1,5,4.28,89.78,6/7/2025,19:10,Credit card,85.5,4.28,6.6
+INV-00089,C,Rajkot,Member,Female,Home and lifestyle,49.85,2,4.99,104.69,5/21/2025,12:10,Credit card,99.7,4.99,6.3
+INV-00090,C,Vadodara,Normal,Female,Sports and travel,33.49,10,16.74,351.64,1/19/2025,18:50,Cash,334.9,16.74,7.2
+INV-00091,B,Vadodara,Member,Female,Health and beauty,40.9,1,2.04,42.94,1/7/2025,19:00,Ewallet,40.9,2.04,7.1
+INV-00092,B,Ahmedabad,Member,Female,Fashion accessories,85.11,1,4.26,89.37,5/17/2025,13:40,Credit card,85.11,4.26,8.6
+INV-00093,A,Vadodara,Member,Female,Health and beauty,94.19,10,47.1,989,2/23/2025,11:10,Cash,941.9,47.1,10
+INV-00094,A,Vadodara,Normal,Male,Food and beverages,26.72,7,9.35,196.39,4/14/2025,19:40,Cash,187.04,9.35,8.5
+INV-00095,A,Ahmedabad,Normal,Male,Health and beauty,43.53,2,4.35,91.41,3/27/2025,14:00,Ewallet,87.06,4.35,6.4
+INV-00096,A,Vadodara,Member,Male,Sports and travel,93.58,4,18.72,393.04,3/23/2025,11:50,Cash,374.32,18.72,6.4
+INV-00097,B,Gandhinagar,Normal,Female,Fashion accessories,15.56,5,3.89,81.69,3/2/2025,19:40,Cash,77.8,3.89,8.1
+INV-00098,C,Surat,Member,Female,Food and beverages,18.31,7,6.41,134.58,3/28/2025,15:00,Credit card,128.17,6.41,4.8
+INV-00099,B,Surat,Member,Female,Fashion accessories,24.65,2,2.46,51.76,1/2/2025,20:00,Cash,49.3,2.46,6.6
+INV-00100,A,Ahmedabad,Member,Female,Home and lifestyle,63.57,6,19.07,400.49,6/27/2025,19:30,Cash,381.42,19.07,6.7
+INV-00101,B,Rajkot,Member,Female,Health and beauty,23.54,1,1.18,24.72,1/31/2025,10:50,Credit card,23.54,1.18,7.8
+INV-00102,C,Ahmedabad,Member,Female,Fashion accessories,97.13,7,34,713.91,2/2/2025,15:50,Ewallet,679.91,34,7.8
+INV-00103,C,Rajkot,Normal,Male,Electronic accessories,50.2,9,22.59,474.39,3/21/2025,13:40,Ewallet,451.8,22.59,6
+INV-00104,B,Surat,Normal,Male,Health and beauty,55.14,5,13.78,289.48,1/11/2025,12:20,Credit card,275.7,13.78,6.5
+INV-00105,B,Ahmedabad,Normal,Female,Home and lifestyle,32.2,5,8.05,169.05,6/10/2025,11:30,Credit card,161,8.05,7.6
+INV-00106,B,Gandhinagar,Member,Male,Fashion accessories,52.39,4,10.48,220.04,5/8/2025,16:50,Ewallet,209.56,10.48,6
+INV-00107,A,Vadodara,Member,Female,Food and beverages,69.57,3,10.44,219.15,5/15/2025,18:00,Ewallet,208.71,10.44,8.6
+INV-00108,B,Rajkot,Normal,Male,Home and lifestyle,77.61,9,34.92,733.41,5/8/2025,12:50,Ewallet,698.49,34.92,7.8
+INV-00109,B,Vadodara,Member,Female,Electronic accessories,77.85,5,19.46,408.71,1/31/2025,15:20,Ewallet,389.25,19.46,7.2
+INV-00110,B,Vadodara,Member,Female,Fashion accessories,62.01,8,24.8,520.88,6/25/2025,18:10,Ewallet,496.08,24.8,7.5
+INV-00111,C,Ahmedabad,Member,Male,Sports and travel,91.39,9,41.13,863.64,5/6/2025,11:10,Credit card,822.51,41.13,6.4
+INV-00112,C,Vadodara,Normal,Male,Health and beauty,83.57,5,20.89,438.74,2/16/2025,16:50,Cash,417.85,20.89,6.2
+INV-00113,A,Gandhinagar,Member,Female,Food and beverages,78.13,10,39.06,820.36,6/30/2025,14:50,Ewallet,781.3,39.06,6.4
+INV-00114,A,Vadodara,Member,Female,Sports and travel,15,9,6.75,141.75,4/17/2025,14:30,Ewallet,135,6.75,7.6
+INV-00115,C,Ahmedabad,Normal,Male,Fashion accessories,10.62,2,1.06,22.3,1/19/2025,20:50,Cash,21.24,1.06,7.3
+INV-00116,C,Gandhinagar,Member,Male,Fashion accessories,29.12,9,13.1,275.18,3/22/2025,16:20,Cash,262.08,13.1,6.5
+INV-00117,C,Surat,Member,Female,Home and lifestyle,69.72,4,13.94,292.82,5/3/2025,18:50,Cash,278.88,13.94,8
+INV-00118,B,Vadodara,Member,Male,Fashion accessories,47.01,6,14.1,296.16,5/14/2025,13:40,Cash,282.06,14.1,6.8
+INV-00119,B,Ahmedabad,Member,Female,Food and beverages,46.22,6,13.87,291.19,4/17/2025,18:20,Cash,277.32,13.87,6.1
+INV-00120,C,Surat,Normal,Female,Sports and travel,89.61,6,26.88,564.54,2/18/2025,20:30,Cash,537.66,26.88,7.3
+INV-00121,B,Surat,Member,Female,Food and beverages,90.6,2,9.06,190.26,3/14/2025,19:40,Credit card,181.2,9.06,5.7
+INV-00122,B,Rajkot,Member,Female,Electronic accessories,91.83,7,32.14,674.95,2/19/2025,18:40,Cash,642.81,32.14,4.8
+INV-00123,A,Gandhinagar,Normal,Male,Electronic accessories,38.25,6,11.48,240.98,3/22/2025,13:10,Cash,229.5,11.48,7
+INV-00124,C,Vadodara,Normal,Male,Health and beauty,72.2,1,3.61,75.81,4/5/2025,12:20,Credit card,72.2,3.61,6.1
+INV-00125,C,Ahmedabad,Normal,Male,Health and beauty,34.45,2,3.44,72.34,1/12/2025,11:40,Cash,68.9,3.44,6.7
+INV-00126,B,Rajkot,Member,Male,Electronic accessories,27.15,7,9.5,199.55,1/23/2025,18:30,Ewallet,190.05,9.5,5.7
+INV-00127,C,Gandhinagar,Member,Male,Fashion accessories,26.62,1,1.33,27.95,2/23/2025,11:10,Ewallet,26.62,1.33,8.6
+INV-00128,A,Rajkot,Normal,Male,Food and beverages,40.79,1,2.04,42.83,4/28/2025,15:40,Cash,40.79,2.04,6.1
+INV-00129,A,Gandhinagar,Normal,Male,Electronic accessories,48.7,1,2.44,51.14,2/28/2025,14:20,Credit card,48.7,2.44,6.4
+INV-00130,A,Gandhinagar,Member,Female,Health and beauty,84.79,8,33.92,712.24,6/13/2025,14:10,Ewallet,678.32,33.92,7.5
+INV-00131,C,Vadodara,Member,Male,Electronic accessories,20.79,4,4.16,87.32,1/3/2025,13:20,Credit card,83.16,4.16,5.2
+INV-00132,C,Gandhinagar,Member,Male,Fashion accessories,76.14,4,15.23,319.79,2/27/2025,15:20,Ewallet,304.56,15.23,5.1
+INV-00133,C,Rajkot,Normal,Female,Electronic accessories,57.83,2,5.78,121.44,2/26/2025,14:20,Cash,115.66,5.78,7.5
+INV-00134,C,Gandhinagar,Member,Male,Food and beverages,35.92,1,1.8,37.72,5/25/2025,20:10,Credit card,35.92,1.8,6.4
+INV-00135,C,Vadodara,Member,Male,Sports and travel,54.35,10,27.18,570.68,6/16/2025,13:40,Credit card,543.5,27.18,5.8
+INV-00136,A,Vadodara,Member,Female,Fashion accessories,36.99,9,16.65,349.56,3/31/2025,18:50,Credit card,332.91,16.65,7.8
+INV-00137,B,Rajkot,Normal,Male,Health and beauty,63.65,7,22.28,467.83,2/24/2025,15:00,Ewallet,445.55,22.28,5.9
+INV-00138,A,Surat,Normal,Male,Food and beverages,49.05,4,9.81,206.01,2/14/2025,20:40,Ewallet,196.2,9.81,6.6
+INV-00139,C,Surat,Member,Male,Electronic accessories,24.8,6,7.44,156.24,1/1/2025,19:10,Ewallet,148.8,7.44,5.8
+INV-00140,A,Gandhinagar,Normal,Female,Electronic accessories,20.49,2,2.05,43.03,1/21/2025,19:00,Cash,40.98,2.05,7.4
+INV-00141,C,Ahmedabad,Normal,Male,Sports and travel,59.2,7,20.72,435.12,1/21/2025,19:00,Ewallet,414.4,20.72,8.7
+INV-00142,C,Gandhinagar,Member,Male,Health and beauty,91.22,2,9.12,191.56,2/21/2025,12:00,Cash,182.44,9.12,4.6
+INV-00143,A,Rajkot,Member,Female,Health and beauty,40.96,10,20.48,430.08,3/23/2025,19:50,Credit card,409.6,20.48,7.1
+INV-00144,C,Rajkot,Member,Male,Home and lifestyle,75.97,8,30.39,638.15,6/20/2025,15:30,Credit card,607.76,30.39,8.1
+INV-00145,B,Rajkot,Normal,Female,Health and beauty,69.28,8,27.71,581.95,6/29/2025,10:10,Cash,554.24,27.71,6.5
+INV-00146,C,Rajkot,Member,Female,Sports and travel,93.84,1,4.69,98.53,3/8/2025,14:50,Ewallet,93.84,4.69,5.5
+INV-00147,B,Rajkot,Normal,Male,Home and lifestyle,83.89,8,33.56,704.68,4/23/2025,19:50,Cash,671.12,33.56,7.5
+INV-00148,B,Vadodara,Normal,Female,Home and lifestyle,60.99,2,6.1,128.08,2/13/2025,15:30,Credit card,121.98,6.1,8.3
+INV-00149,C,Surat,Member,Female,Electronic accessories,69.13,6,20.74,435.52,6/9/2025,20:00,Credit card,414.78,20.74,8.2
+INV-00150,A,Rajkot,Normal,Male,Electronic accessories,90.85,1,4.54,95.39,1/10/2025,17:30,Cash,90.85,4.54,7.5
+INV-00151,B,Ahmedabad,Member,Female,Health and beauty,45.96,5,11.49,241.29,3/5/2025,20:30,Ewallet,229.8,11.49,7.1
+INV-00152,A,Ahmedabad,Member,Female,Home and lifestyle,39.41,7,13.79,289.66,3/10/2025,18:50,Ewallet,275.87,13.79,5.8
+INV-00153,B,Ahmedabad,Normal,Male,Electronic accessories,10.97,10,5.48,115.18,3/9/2025,20:10,Cash,109.7,5.48,8.1
+INV-00154,C,Ahmedabad,Normal,Male,Sports and travel,84.39,1,4.22,88.61,1/28/2025,12:20,Cash,84.39,4.22,8.1
+INV-00155,C,Vadodara,Member,Male,Electronic accessories,82.09,2,8.21,172.39,6/30/2025,11:30,Ewallet,164.18,8.21,5.5
+INV-00156,B,Ahmedabad,Normal,Female,Fashion accessories,19.4,7,6.79,142.59,4/26/2025,13:30,Credit card,135.8,6.79,7.5
+INV-00157,C,Rajkot,Normal,Male,Fashion accessories,61.92,6,18.58,390.1,2/20/2025,17:00,Cash,371.52,18.58,7.8
+INV-00158,B,Gandhinagar,Member,Female,Electronic accessories,51.76,3,7.76,163.04,6/30/2025,20:00,Ewallet,155.28,7.76,8.1
+INV-00159,C,Ahmedabad,Normal,Female,Home and lifestyle,20.68,10,10.34,217.14,1/4/2025,17:50,Ewallet,206.8,10.34,6.9
+INV-00160,A,Vadodara,Member,Female,Home and lifestyle,98.25,2,9.83,206.33,3/20/2025,12:00,Credit card,196.5,9.83,5.9
+INV-00161,C,Vadodara,Member,Female,Food and beverages,29.32,10,14.66,307.86,1/17/2025,13:40,Credit card,293.2,14.66,6.3
+INV-00162,A,Ahmedabad,Member,Female,Fashion accessories,16.05,4,3.21,67.41,4/18/2025,12:30,Credit card,64.2,3.21,5.7
+INV-00163,C,Gandhinagar,Normal,Female,Sports and travel,63.54,3,9.53,200.15,3/15/2025,19:00,Credit card,190.62,9.53,6.9
+INV-00164,A,Ahmedabad,Normal,Female,Home and lifestyle,76.5,7,26.78,562.28,6/24/2025,11:10,Credit card,535.5,26.78,6.7
+INV-00165,C,Vadodara,Member,Male,Health and beauty,12.92,8,5.17,108.53,1/23/2025,13:40,Cash,103.36,5.17,9.8
+INV-00166,A,Surat,Member,Male,Fashion accessories,69.28,2,6.93,145.49,1/18/2025,15:50,Ewallet,138.56,6.93,8.2
+INV-00167,B,Rajkot,Normal,Female,Sports and travel,57.91,10,28.96,608.06,5/9/2025,20:20,Cash,579.1,28.96,8.3
+INV-00168,B,Vadodara,Member,Female,Sports and travel,19.29,7,6.75,141.78,2/4/2025,20:30,Cash,135.03,6.75,7.6
+INV-00169,A,Ahmedabad,Normal,Male,Home and lifestyle,25.53,8,10.21,214.45,3/5/2025,14:30,Cash,204.24,10.21,6.5
+INV-00170,C,Rajkot,Normal,Female,Sports and travel,61.12,6,18.34,385.06,2/28/2025,12:10,Cash,366.72,18.34,6.6
+INV-00171,A,Ahmedabad,Member,Male,Home and lifestyle,36.67,6,11,231.02,1/1/2025,11:20,Cash,220.02,11,6.8
+INV-00172,C,Ahmedabad,Normal,Male,Electronic accessories,94.45,,47.22,991.72,5/11/2025,18:20,Credit card,944.5,47.22,7.2
+INV-00173,B,Surat,Member,Male,Fashion accessories,83.69,1,4.18,87.87,3/8/2025,10:50,Credit card,83.69,4.18,7.5
+INV-00174,C,Rajkot,Normal,Female,Food and beverages,98.52,4,19.7,413.78,2/6/2025,18:50,Ewallet,394.08,19.7,
+INV-00175,B,Rajkot,Normal,Female,Electronic accessories,33.37,1,1.67,35.04,1/29/2025,10:40,Cash,33.37,1.67,6.6
+INV-00176,C,Surat,Normal,Male,Fashion accessories,97.28,4,19.46,408.58,3/30/2025,16:30,Ewallet,389.12,19.46,6.2
+INV-00177,C,Vadodara,Member,Male,Home and lifestyle,48.81,2,4.88,102.5,6/10/2025,15:00,Credit card,97.62,4.88,5.2
+INV-00178,C,Ahmedabad,Normal,Male,Fashion accessories,41.28,5,10.32,216.72,4/10/2025,16:50,Credit card,206.4,10.32,8.7
+INV-00179,A,Gandhinagar,Member,Male,Home and lifestyle,14.53,10,7.26,152.56,5/2/2025,12:10,Credit card,145.3,7.26,9.9
+INV-00180,A,Ahmedabad,Member,Male,Electronic accessories,14.75,9,6.64,139.39,3/31/2025,12:10,Cash,132.75,6.64,8.6
+INV-00181,B,Ahmedabad,Member,Female,Health and beauty,72.28,10,36.14,758.94,5/12/2025,20:10,Cash,722.8,36.14,5.4
+INV-00182,B,Vadodara,Member,Male,Health and beauty,51.21,3,7.68,161.31,1/14/2025,10:50,Credit card,153.63,7.68,8
+INV-00183,A,Ahmedabad,Member,Female,Fashion accessories,30.39,8,12.16,255.28,6/10/2025,13:50,Ewallet,243.12,12.16,8.3
+INV-00184,B,Surat,Normal,Male,Health and beauty,65.26,3,9.79,205.57,5/30/2025,11:10,Ewallet,195.78,9.79,6.5
+INV-00185,A,Surat,Normal,Female,Home and lifestyle,32.76,6,9.83,206.39,6/25/2025,19:50,Credit card,196.56,9.83,7.6
+INV-00186,C,Rajkot,Member,Female,Sports and travel,61.99,4,12.4,260.36,5/11/2025,17:00,Ewallet,247.96,12.4,6.4
+INV-00187,B,Gandhinagar,Normal,Female,Home and lifestyle,42.33,8,16.93,355.57,3/26/2025,12:00,Credit card,338.64,16.93,9
+INV-00188,B,Ahmedabad,Member,Female,Sports and travel,84.12,6,25.24,529.96,5/31/2025,16:40,Ewallet,504.72,25.24,7.5
+INV-00189,A,Ahmedabad,Normal,Female,Electronic accessories,83.86,8,33.54,704.42,1/21/2025,16:30,Credit card,670.88,33.54,5.8
+INV-00190,B,Vadodara,Normal,Female,Food and beverages,52.96,1,2.65,55.61,6/20/2025,18:00,Ewallet,52.96,2.65,7.9
+INV-00191,B,Surat,Member,Male,Sports and travel,41.57,6,12.47,261.89,1/26/2025,15:40,Cash,249.42,12.47,8.4
+INV-00192,C,Gandhinagar,Normal,Female,Health and beauty,42.63,1,2.13,44.76,2/10/2025,10:20,Credit card,42.63,2.13,7.3
+INV-00193,B,Rajkot,Member,Male,Home and lifestyle,82.51,1,4.13,86.64,5/2/2025,17:30,Credit card,82.51,4.13,7.6
+INV-00194,C,Surat,Member,Female,Electronic accessories,39.54,8,15.82,332.14,2/7/2025,10:00,Ewallet,316.32,15.82,6.9
+INV-00195,A,Rajkot,Normal,Female,Health and beauty,28.82,7,10.09,211.83,3/29/2025,12:20,Credit card,201.74,10.09,5.5
+INV-00196,B,Vadodara,Member,Male,Electronic accessories,17.62,3,2.64,55.5,1/11/2025,20:40,Credit card,52.86,2.64,6.8
+INV-00197,C,Vadodara,Member,Female,Food and beverages,52,6,15.6,327.6,1/29/2025,14:00,Credit card,312,15.6,7.7
+INV-00198,A,Ahmedabad,Member,Male,Home and lifestyle,53.39,9,24.03,504.54,3/1/2025,17:00,Cash,480.51,24.03,6.8
+INV-00199,B,Gandhinagar,Normal,Male,Fashion accessories,85.68,7,29.99,629.75,3/2/2025,18:50,Cash,599.76,29.99,8
+INV-00200,A,Rajkot,Member,Male,Home and lifestyle,29.91,3,4.49,94.22,5/27/2025,16:20,Ewallet,89.73,4.49,6.5
+INV-00201,B,Surat,Member,Male,Food and beverages,44.29,6,13.29,279.03,6/23/2025,18:00,Cash,265.74,13.29,6.6
+INV-00202,A,Vadodara,Normal,Female,Home and lifestyle,82.76,4,16.55,347.59,6/26/2025,20:10,Ewallet,331.04,16.55,8.1
+INV-00203,A,Ahmedabad,Normal,Female,Fashion accessories,84.13,3,12.62,265.01,1/22/2025,12:50,Cash,252.39,12.62,7.3
+INV-00204,C,Ahmedabad,Member,Male,Sports and travel,44.61,9,20.07,421.56,3/19/2025,14:50,Ewallet,401.49,20.07,6.5
+INV-00205,A,Rajkot,Member,Female,Electronic accessories,51.32,10,25.66,538.86,4/23/2025,19:00,Cash,513.2,25.66,8.3
+INV-00206,B,Vadodara,Member,Female,Fashion accessories,37.3,2,3.73,78.33,5/3/2025,17:50,Cash,74.6,3.73,6.1
+INV-00207,B,Gandhinagar,Member,Male,Health and beauty,,1,4.7,98.63,5/22/2025,10:30,Ewallet,93.93,4.7,6.1
+INV-00208,C,Vadodara,Member,Female,Food and beverages,20.68,2,2.07,43.43,2/13/2025,17:20,Credit card,41.36,2.07,4
+INV-00209,B,Rajkot,Normal,Male,Sports and travel,94.04,7,32.91,691.19,5/24/2025,16:30,Credit card,658.28,32.91,6.3
+INV-00210,B,Rajkot,Normal,Male,Health and beauty,71.55,10,35.78,751.28,4/7/2025,10:40,Cash,715.5,35.78,8.7
+INV-00211,B,Vadodara,Normal,Female,Health and beauty,57.84,1,2.89,60.73,3/18/2025,19:30,Ewallet,57.84,2.89,4.3
+INV-00212,A,Rajkot,Member,Female,Food and beverages,12.94,6,3.88,81.52,5/20/2025,19:10,Credit card,77.64,3.88,5.8
+INV-00213,A,Vadodara,Normal,Female,Sports and travel,52.8,7,18.48,388.08,2/24/2025,15:50,Ewallet,369.6,18.48,7.6
+INV-00214,B,Surat,Member,Male,Health and beauty,46.7,9,21.02,441.32,2/20/2025,10:50,Credit card,420.3,21.02,4.1
+INV-00215,C,Vadodara,Normal,Male,Health and beauty,24.51,8,9.8,205.88,4/12/2025,11:10,Ewallet,196.08,9.8,6.3
+INV-00216,A,Vadodara,Normal,Female,Sports and travel,69.08,6,20.72,435.2,6/16/2025,14:50,Cash,414.48,20.72,8.5
+INV-00217,C,Rajkot,Member,Female,Home and lifestyle,97.4,3,14.61,306.81,6/10/2025,11:30,Ewallet,292.2,14.61,9.7
+INV-00218,B,Rajkot,Normal,Female,Health and beauty,60.6,8,24.24,509.04,6/10/2025,19:40,Credit card,484.8,24.24,7.4
+INV-00219,B,Ahmedabad,Member,Female,Electronic accessories,74.33,7,26.02,546.33,1/29/2025,10:00,Cash,520.31,26.02,5.8
+INV-00220,A,Ahmedabad,Normal,Male,Sports and travel,16.16,3,2.42,50.9,3/10/2025,15:10,Ewallet,48.48,2.42,5.8
+INV-00221,B,Surat,Member,Female,Health and beauty,47.59,9,21.42,449.73,6/8/2025,17:30,Credit card,428.31,21.42,7.2
+INV-00222,A,Ahmedabad,Member,Male,Food and beverages,20.47,2,2.05,42.99,3/21/2025,17:30,Cash,40.94,2.05,7.4
+INV-00223,B,Vadodara,Normal,Male,Fashion accessories,65.15,3,9.77,205.22,1/31/2025,17:30,Ewallet,195.45,9.77,9.4
+INV-00224,B,Rajkot,Member,Female,Electronic accessories,94.46,2,9.45,198.37,4/22/2025,20:00,Credit card,188.92,9.45,8.3
+INV-00225,A,Ahmedabad,Normal,Female,Fashion accessories,69.56,1,3.48,73.04,2/15/2025,15:20,Ewallet,69.56,3.48,7.1
+INV-00226,A,Ahmedabad,Member,Female,Fashion accessories,16.91,4,3.38,71.02,4/7/2025,20:50,Ewallet,67.64,3.38,6.6
+INV-00227,A,Surat,Normal,Male,Health and beauty,41.92,5,10.48,220.08,2/21/2025,12:50,Cash,209.6,10.48,10
+INV-00228,B,Surat,Normal,Female,Electronic accessories,59.56,6,17.87,375.23,5/18/2025,10:40,Cash,357.36,17.87,7.8
+INV-00229,B,Vadodara,Member,Female,Electronic accessories,46.29,5,11.57,243.02,3/15/2025,11:20,Credit card,231.45,11.57,6.1
+INV-00230,C,Rajkot,Member,Male,Home and lifestyle,85.03,1,4.25,89.28,2/10/2025,14:50,Cash,85.03,4.25,6.7
+INV-00231,A,Surat,Member,Female,Fashion accessories,83.32,3,12.5,262.46,3/18/2025,19:40,Credit card,249.96,12.5,5.9
+INV-00232,B,Ahmedabad,Member,Male,Electronic accessories,65.06,1,3.25,68.31,5/11/2025,14:40,Ewallet,65.06,3.25,4
+INV-00233,B,Rajkot,Member,Female,Home and lifestyle,43.61,5,10.9,228.95,4/24/2025,19:30,Ewallet,218.05,10.9,7.4
+INV-00234,A,Rajkot,Normal,Male,Sports and travel,32.98,5,8.25,173.15,2/21/2025,10:10,Credit card,164.9,8.25,9.3
+INV-00235,C,Ahmedabad,Normal,Female,Home and lifestyle,19.53,6,5.86,123.04,6/11/2025,10:30,Ewallet,117.18,5.86,4.9
+INV-00236,A,Surat,Normal,Female,Food and beverages,41.94,8,16.78,352.3,6/26/2025,18:00,Cash,335.52,16.78,7.1
+INV-00237,C,Ahmedabad,Normal,Male,Health and beauty,47.19,10,23.6,495.5,6/5/2025,11:50,Ewallet,471.9,23.6,6.1
+INV-00238,B,Rajkot,Normal,Male,Sports and travel,70.82,1,3.54,74.36,3/28/2025,16:40,Cash,70.82,3.54,7.7
+INV-00239,C,Gandhinagar,Normal,Female,Sports and travel,69.23,4,13.85,290.77,4/19/2025,19:10,Credit card,276.92,13.85,6.8
+INV-00240,B,Gandhinagar,Member,Male,Food and beverages,16.31,10,8.15,171.25,5/21/2025,13:50,Credit card,163.1,8.15,5.2
+INV-00241,A,Vadodara,Normal,Male,Home and lifestyle,45.57,1,2.28,47.85,3/10/2025,16:40,Ewallet,45.57,2.28,5.7
+INV-00242,A,Ahmedabad,Normal,Male,Health and beauty,26.36,9,11.86,249.1,4/30/2025,17:40,Ewallet,237.24,11.86,5.9
+INV-00243,A,Ahmedabad,Member,Male,Home and lifestyle,24.11,7,8.44,177.21,3/8/2025,14:30,Cash,168.77,8.44,8.7
+INV-00244,C,Vadodara,Member,Female,Electronic accessories,84.46,7,29.56,620.78,3/2/2025,10:10,Cash,591.22,29.56,8.7
+INV-00245,B,Vadodara,Member,Female,Home and lifestyle,13.77,5,3.44,72.29,3/12/2025,13:10,Ewallet,68.85,3.44,6.6
+INV-00246,A,Vadodara,Member,Male,Sports and travel,47.73,7,16.71,350.82,6/1/2025,19:50,Ewallet,334.11,16.71,8.6
+INV-00247,A,Rajkot,Normal,Male,Health and beauty,25.14,2,2.51,52.79,5/31/2025,12:40,Credit card,50.28,2.51,6.8
+INV-00248,B,Ahmedabad,Member,Male,Home and lifestyle,89.14,4,17.83,374.39,1/30/2025,19:10,Credit card,356.56,17.83,6.6
+INV-00249,A,Rajkot,Member,Male,Health and beauty,60.13,7,21.05,441.96,5/26/2025,14:10,Credit card,420.91,21.05,7.1
+INV-00250,B,Vadodara,Normal,Female,Health and beauty,30.82,3,4.62,97.08,4/6/2025,19:50,Ewallet,92.46,4.62,7.4
+INV-00251,B,Ahmedabad,Member,Female,Electronic accessories,55.22,2,5.52,115.96,2/25/2025,19:30,Ewallet,110.44,5.52,6.3
+INV-00252,B,Rajkot,Member,Male,Electronic accessories,75.83,10,37.92,796.22,2/22/2025,15:20,Ewallet,758.3,37.92,7
+INV-00253,B,Rajkot,Member,Male,Sports and travel,96.23,2,9.62,202.08,1/7/2025,11:00,Credit card,192.46,9.62,8
+INV-00254,B,Vadodara,Normal,Male,Food and beverages,29.84,1,1.49,31.33,4/7/2025,16:20,Ewallet,29.84,1.49,7.2
+INV-00255,C,Ahmedabad,Normal,Female,Health and beauty,89.76,5,22.44,471.24,4/23/2025,12:10,Cash,448.8,22.44,7.1
+INV-00256,A,Vadodara,Member,Male,Food and beverages,94.09,6,28.23,592.77,5/5/2025,10:40,Ewallet,564.54,28.23,7.6
+INV-00257,C,Ahmedabad,Normal,Female,Sports and travel,92.48,,27.74,582.62,6/29/2025,19:00,Ewallet,554.88,27.74,7.9
+INV-00258,A,Gandhinagar,Member,Male,Health and beauty,67.19,9,30.24,634.95,5/12/2025,12:00,Ewallet,604.71,30.24,6.9
+INV-00259,C,Surat,Normal,Female,Health and beauty,66.68,4,13.34,280.06,6/11/2025,18:40,Ewallet,266.72,13.34,6.4
+INV-00260,B,Surat,Normal,Male,Fashion accessories,46.29,1,2.31,48.6,6/10/2025,19:00,Ewallet,46.29,2.31,7.2
+INV-00261,A,Surat,Normal,Female,Food and beverages,77.72,6,23.32,489.64,5/1/2025,20:40,Cash,466.32,23.32,4.9
+INV-00262,A,Vadodara,Member,Male,Home and lifestyle,57.82,5,14.46,303.56,2/7/2025,20:00,Cash,289.1,14.46,6.7
+INV-00263,C,Gandhinagar,Normal,Male,Electronic accessories,70.97,10,35.49,745.19,5/2/2025,15:50,Ewallet,709.7,35.49,4
+INV-00264,C,Ahmedabad,Normal,Male,Home and lifestyle,48.56,6,14.57,305.93,1/26/2025,20:50,Credit card,291.36,14.57,4.8
+INV-00265,A,Rajkot,Member,Female,Food and beverages,75.83,3,11.37,238.86,5/9/2025,15:20,Ewallet,227.49,11.37,4.6
+INV-00266,C,Ahmedabad,Normal,Male,Electronic accessories,84.2,2,8.42,176.82,1/4/2025,13:00,Ewallet,168.4,8.42,8.4
+INV-00267,C,Rajkot,Member,Female,Home and lifestyle,23.18,6,6.95,146.03,2/8/2025,17:30,Ewallet,139.08,6.95,7
+INV-00268,C,Ahmedabad,Normal,Female,Fashion accessories,84.96,1,4.25,89.21,2/23/2025,14:40,Credit card,84.96,4.25,5.4
+INV-00269,B,Gandhinagar,Member,Male,Electronic accessories,58.63,7,20.52,430.93,6/10/2025,16:00,Credit card,410.41,20.52,7.6
+INV-00270,B,Rajkot,Normal,Male,Health and beauty,86.02,7,30.11,632.25,2/2/2025,18:50,Credit card,602.14,30.11,8.3
+INV-00271,C,Vadodara,Member,Male,Home and lifestyle,48.82,10,24.41,512.61,1/20/2025,14:50,Cash,488.2,24.41,7.7
+INV-00272,C,Ahmedabad,Member,Female,Electronic accessories,44.11,7,15.44,324.21,1/16/2025,20:40,Credit card,308.77,15.44,6.8
+INV-00273,B,Ahmedabad,Member,Male,Fashion accessories,92.36,10,46.18,969.78,5/29/2025,14:30,Cash,923.6,46.18,7.3
+INV-00274,B,Rajkot,Member,Female,Electronic accessories,32.61,1,1.63,34.24,6/22/2025,13:00,Cash,32.61,1.63,8.2
+INV-00275,A,Vadodara,Member,Female,Electronic accessories,85.98,4,17.2,361.12,5/7/2025,15:00,Credit card,343.92,17.2,6.4
+INV-00276,A,Vadodara,Member,Male,Fashion accessories,53.56,7,18.75,393.67,3/28/2025,11:30,Credit card,374.92,18.75,7
+INV-00277,B,Gandhinagar,Member,Male,Home and lifestyle,56.27,9,25.32,531.75,3/23/2025,12:30,Credit card,506.43,25.32,6.7
+INV-00278,C,Vadodara,Member,Male,Sports and travel,37.76,5,9.44,198.24,3/3/2025,10:30,Cash,188.8,9.44,4.9
+INV-00279,C,Vadodara,Member,Male,Home and lifestyle,61.57,2,6.16,129.3,1/31/2025,11:50,Ewallet,123.14,6.16,8.2
+INV-00280,C,Vadodara,Normal,Male,Food and beverages,39.27,7,13.74,288.63,2/11/2025,11:40,Credit card,274.89,13.74,9.7
+INV-00281,C,Surat,Member,Male,Fashion accessories,13.53,10,6.76,142.06,1/12/2025,17:30,Credit card,135.3,6.76,5.9
+INV-00282,A,Gandhinagar,Normal,Female,Home and lifestyle,34.48,1,1.72,36.2,3/6/2025,17:40,Credit card,34.48,1.72,8.3
+INV-00283,B,Ahmedabad,Normal,Female,Electronic accessories,10.57,7,3.7,77.69,3/14/2025,11:20,Cash,73.99,3.7,5.9
+INV-00284,C,Rajkot,Normal,Female,Fashion accessories,98.05,6,29.42,617.72,5/11/2025,15:00,Cash,588.3,29.42,7.2
+INV-00285,A,Ahmedabad,Member,Male,Health and beauty,96.92,7,33.92,712.36,4/25/2025,14:00,Ewallet,678.44,33.92,9
+INV-00286,C,Gandhinagar,Normal,Female,Home and lifestyle,45.56,10,22.78,478.38,5/17/2025,12:10,Credit card,455.6,22.78,6.3
+INV-00287,B,Rajkot,Member,Female,Fashion accessories,75.55,3,11.33,237.98,4/16/2025,14:20,Cash,226.65,11.33,7
+INV-00288,A,Gandhinagar,Member,Female,Home and lifestyle,41.12,3,6.17,129.53,6/28/2025,14:30,Ewallet,123.36,6.17,4.7
+INV-00289,B,Vadodara,Member,Female,Fashion accessories,70.4,7,24.64,517.44,1/16/2025,14:30,Credit card,492.8,24.64,6.1
+INV-00290,B,Rajkot,Normal,Female,Electronic accessories,82.49,2,8.25,173.23,3/19/2025,12:50,Cash,164.98,8.25,4.5
+INV-00291,A,Vadodara,Member,Male,Health and beauty,95.21,1,4.76,99.97,5/5/2025,12:20,Credit card,95.21,4.76,7.6
+INV-00292,A,Ahmedabad,Member,Male,Health and beauty,46.02,9,20.71,434.89,5/11/2025,13:30,Credit card,414.18,20.71,8.1
+INV-00293,A,Ahmedabad,Normal,Female,Food and beverages,80.5,9,36.22,760.72,6/1/2025,16:10,Cash,724.5,36.22,6.7
+INV-00294,A,Rajkot,Normal,Female,Fashion accessories,33.93,7,11.88,249.39,5/21/2025,11:40,Cash,237.51,11.88,7.4
+INV-00295,A,Rajkot,Member,Female,Home and lifestyle,99.13,7,34.7,728.61,5/10/2025,19:00,Cash,693.91,34.7,6.6
+INV-00296,A,Gandhinagar,Member,Male,Health and beauty,12.32,3,1.85,38.81,4/22/2025,13:20,Credit card,36.96,1.85,8
+INV-00297,A,Gandhinagar,Normal,Male,Health and beauty,64.32,10,32.16,675.36,5/7/2025,13:00,Credit card,643.2,32.16,7.2
+INV-00298,C,Vadodara,Member,Female,Sports and travel,69.36,2,6.94,145.66,1/21/2025,10:40,Ewallet,138.72,6.94,4.4
+INV-00299,B,Rajkot,Member,Male,Sports and travel,71.92,7,25.17,528.61,5/27/2025,19:20,Credit card,503.44,25.17,8.2
+INV-00300,A,Ahmedabad,Member,Male,Health and beauty,20.83,9,9.37,196.84,3/30/2025,17:40,Cash,187.47,9.37,6.5
+INV-00301,C,Gandhinagar,Normal,Female,Fashion accessories,94.47,1,4.72,99.19,2/16/2025,10:30,Credit card,94.47,4.72,5.3
+INV-00302,C,Gandhinagar,Normal,Male,Food and beverages,26.31,4,5.26,110.5,5/30/2025,17:30,Ewallet,105.24,5.26,6.4
+INV-00303,C,Ahmedabad,Normal,Male,Health and beauty,,6,19.82,416.12,6/10/2025,16:30,Ewallet,396.3,19.82,4.5
+INV-00304,B,Gandhinagar,Normal,Female,Electronic accessories,30.04,7,10.51,220.79,6/9/2025,18:40,Cash,210.28,10.51,5.4
+INV-00305,A,Vadodara,Member,Male,Home and lifestyle,37.65,10,18.82,395.32,3/26/2025,17:40,Cash,376.5,18.82,7.2
+INV-00306,C,Rajkot,Member,Male,Food and beverages,59.18,7,20.71,434.97,6/16/2025,14:40,Ewallet,414.26,20.71,7.3
+INV-00307,B,Ahmedabad,Member,Female,Electronic accessories,47.55,10,23.78,499.28,5/8/2025,17:00,Ewallet,475.5,23.78,7.4
+INV-00308,B,Rajkot,Member,Male,Food and beverages,24.42,2,2.44,51.28,3/13/2025,20:40,Ewallet,48.84,2.44,7
+INV-00309,B,Gandhinagar,Member,Male,Electronic accessories,25.38,4,5.08,106.6,2/11/2025,19:30,Cash,101.52,5.08,6.1
+INV-00310,C,Gandhinagar,Normal,Female,Home and lifestyle,47.63,5,11.91,250.06,1/9/2025,12:10,Ewallet,238.15,11.91,6.9
+INV-00311,A,Ahmedabad,Normal,Female,Home and lifestyle,78.16,1,3.91,82.07,1/25/2025,19:40,Ewallet,78.16,3.91,6.4
+INV-00312,C,Vadodara,Normal,Female,Sports and travel,,1,4.54,95.36,1/2/2025,16:10,Cash,90.82,4.54,4.9
+INV-00313,C,Surat,Member,Male,Fashion accessories,17.57,10,8.78,184.48,1/19/2025,13:30,Credit card,175.7,8.78,6
+INV-00314,A,Ahmedabad,Normal,Female,Electronic accessories,45.38,3,6.81,142.95,1/20/2025,14:40,Credit card,136.14,6.81,8.2
+INV-00315,A,Surat,Normal,Male,Sports and travel,19.02,10,9.51,199.71,3/11/2025,18:00,Ewallet,190.2,9.51,9.1
+INV-00316,A,Surat,Member,Female,Electronic accessories,11.49,3,1.72,36.19,1/17/2025,16:00,Credit card,34.47,1.72,7.8
+INV-00317,B,Vadodara,Normal,Male,Sports and travel,69.55,8,27.82,584.22,5/4/2025,13:10,Credit card,556.4,27.82,9
+INV-00318,A,Surat,Member,Female,Home and lifestyle,64.22,9,28.9,606.88,3/30/2025,15:50,Credit card,577.98,28.9,7.1
+INV-00319,C,Surat,Member,Female,Food and beverages,24.67,1,1.23,25.9,4/4/2025,19:00,Credit card,24.67,1.23,9.3
+INV-00320,A,Vadodara,Member,Female,Sports and travel,31.04,2,3.1,65.18,3/25/2025,20:00,Ewallet,62.08,3.1,9.7
+INV-00321,C,Surat,Member,Female,Electronic accessories,12.13,10,6.06,127.36,5/11/2025,16:00,Credit card,121.3,6.06,4.7
+INV-00322,B,Surat,Member,Male,Electronic accessories,85.15,2,8.52,178.82,3/28/2025,19:30,Credit card,170.3,8.52,7.3
+INV-00323,C,Surat,Normal,Female,Fashion accessories,97.72,4,19.54,410.42,2/20/2025,18:00,Cash,390.88,19.54,7.1
+INV-00324,C,Ahmedabad,Normal,Female,Home and lifestyle,22.19,2,2.22,46.6,3/23/2025,13:20,Ewallet,44.38,2.22,6.4
+INV-00325,A,Ahmedabad,Normal,Male,Electronic accessories,30.83,7,10.79,226.6,6/3/2025,19:40,Cash,215.81,10.79,7.6
+INV-00326,A,Ahmedabad,Normal,Female,Health and beauty,88.16,9,39.67,833.11,1/8/2025,12:00,Cash,793.44,39.67,7.1
+INV-00327,C,Vadodara,Member,Male,Food and beverages,93.38,7,32.68,686.34,6/14/2025,17:50,Ewallet,653.66,32.68,6
+INV-00328,A,Gandhinagar,Normal,Female,Sports and travel,47.77,6,14.33,300.95,5/1/2025,10:50,Credit card,286.62,14.33,7
+INV-00329,B,Surat,Member,Female,Fashion accessories,14.56,10,7.28,152.88,6/4/2025,18:00,Cash,145.6,7.28,8.6
+INV-00330,B,Surat,Member,Female,Food and beverages,13.55,1,0.68,14.23,6/22/2025,10:00,Ewallet,13.55,0.68,7.2
+INV-00331,A,Vadodara,Member,Male,Home and lifestyle,61.66,10,30.83,647.43,1/4/2025,11:20,Credit card,616.6,30.83,7.8
+INV-00332,B,Surat,Member,Female,Fashion accessories,45.36,9,20.41,428.65,3/27/2025,17:00,Ewallet,408.24,20.41,6.6
+INV-00333,A,Ahmedabad,Member,Female,Sports and travel,12.58,5,3.14,66.04,5/8/2025,18:00,Cash,62.9,3.14,7.6
+INV-00334,C,Gandhinagar,Member,Female,Sports and travel,62.49,5,15.62,328.07,4/20/2025,16:40,Credit card,312.45,15.62,5.4
+INV-00335,C,Rajkot,Member,Male,Health and beauty,11.02,6,3.31,69.43,4/9/2025,12:50,Credit card,66.12,3.31,6.4
+INV-00336,B,Surat,Normal,Male,Home and lifestyle,80.86,9,36.39,764.13,2/6/2025,16:20,Ewallet,727.74,36.39,6.9
+INV-00337,A,Ahmedabad,Member,Female,Fashion accessories,37.58,8,15.03,315.67,3/12/2025,15:50,Credit card,300.64,15.03,5.3
+INV-00338,A,Rajkot,Member,Male,Fashion accessories,13.62,8,5.45,114.41,2/2/2025,11:20,Cash,108.96,5.45,5.9
+INV-00339,B,Gandhinagar,Member,Female,Electronic accessories,62.95,8,25.18,528.78,1/31/2025,12:50,Cash,503.6,25.18,7.4
+INV-00340,C,Rajkot,Normal,Female,Health and beauty,45.79,1,2.29,48.08,5/5/2025,20:00,Cash,45.79,2.29,7.2
+INV-00341,B,Ahmedabad,Member,Female,Health and beauty,97.64,1,4.88,102.52,1/12/2025,19:50,Ewallet,97.64,4.88,8
+INV-00342,C,Rajkot,Member,Female,Fashion accessories,58.98,8,23.59,495.43,1/11/2025,19:50,Credit card,471.84,23.59,6.2
+INV-00343,A,Vadodara,Member,Female,Fashion accessories,34.77,5,8.69,182.54,3/29/2025,14:20,Credit card,173.85,8.69,7.1
+INV-00344,C,Rajkot,Member,Female,Food and beverages,73.85,9,33.23,697.88,3/13/2025,19:10,Credit card,664.65,33.23,6.1
+INV-00345,B,Surat,Member,Female,Food and beverages,34.43,2,3.44,72.3,2/1/2025,13:20,Cash,68.86,3.44,7.9
+INV-00346,A,Surat,Member,Male,Food and beverages,91.38,9,41.12,863.54,2/26/2025,11:20,Credit card,822.42,41.12,8.5
+INV-00347,B,Vadodara,Member,Male,Health and beauty,43.72,8,17.49,367.25,6/15/2025,13:20,Cash,349.76,17.49,7.6
+INV-00348,B,Ahmedabad,Member,Male,Electronic accessories,59.49,9,26.77,562.18,3/27/2025,17:30,Credit card,535.41,26.77,8.4
+INV-00349,C,Surat,Member,Male,Sports and travel,14.55,4,2.91,61.11,1/19/2025,14:30,Cash,58.2,2.91,7
+INV-00350,B,Gandhinagar,Normal,Male,Food and beverages,48.35,1,2.42,50.77,4/26/2025,14:30,Credit card,48.35,2.42,8
+INV-00351,C,Surat,Member,Male,Electronic accessories,84.91,1,4.25,89.16,1/14/2025,19:20,Ewallet,84.91,4.25,7.1
+INV-00352,A,Surat,Member,Male,Home and lifestyle,82.51,5,20.63,433.18,2/2/2025,12:10,Ewallet,412.55,20.63,5.7
+INV-00353,C,Ahmedabad,Member,Female,Food and beverages,30.19,2,3.02,63.4,1/10/2025,17:20,Cash,60.38,3.02,7.3
+INV-00354,A,Rajkot,Normal,Female,Sports and travel,30.35,8,12.14,254.94,3/21/2025,15:00,Cash,242.8,12.14,5.7
+INV-00355,C,Surat,Member,Female,Home and lifestyle,83.56,10,41.78,877.38,3/5/2025,11:10,Credit card,835.6,41.78,10
+INV-00356,B,Vadodara,Member,Female,Home and lifestyle,93.74,5,23.44,492.14,3/9/2025,11:30,Credit card,468.7,23.44,6.6
+INV-00357,C,Rajkot,Normal,Male,Sports and travel,18.58,5,4.65,97.55,4/2/2025,18:50,Ewallet,92.9,4.65,7.8
+INV-00358,C,Gandhinagar,Member,Male,Food and beverages,50.51,2,5.05,106.07,5/5/2025,16:50,Credit card,101.02,5.05,7
+INV-00359,A,Ahmedabad,Member,Female,Health and beauty,40.37,7,14.13,296.72,6/20/2025,19:40,Cash,282.59,14.13,5.4
+INV-00360,B,Gandhinagar,Member,Female,Sports and travel,88.36,8,35.34,742.22,3/21/2025,18:10,Cash,706.88,35.34,4.5
+INV-00361,C,Rajkot,Normal,Male,Sports and travel,17.52,10,8.76,183.96,2/28/2025,15:30,Cash,175.2,8.76,8
+INV-00362,B,Rajkot,Member,Female,Sports and travel,29,1,1.45,30.45,6/29/2025,14:10,Cash,29,1.45,9
+INV-00363,C,Rajkot,Normal,Female,Home and lifestyle,77.72,2,7.77,163.21,4/7/2025,10:10,Cash,155.44,7.77,6
+INV-00364,C,Gandhinagar,Normal,Female,Electronic accessories,14.62,10,7.31,153.51,1/19/2025,15:50,Ewallet,146.2,7.31,4.8
+INV-00365,B,Rajkot,Member,Female,Health and beauty,54.33,4,10.87,228.19,5/29/2025,15:20,Ewallet,217.32,10.87,6.6
+INV-00366,C,Gandhinagar,Member,Male,Food and beverages,49.79,5,12.45,261.4,1/22/2025,12:00,Cash,248.95,12.45,5.8
+INV-00367,B,Rajkot,Member,Female,Food and beverages,40.1,2,4.01,84.21,1/9/2025,12:40,Credit card,80.2,4.01,6.2
+INV-00368,C,Vadodara,Member,Female,Electronic accessories,45.51,1,2.28,47.79,1/9/2025,12:30,Cash,45.51,2.28,7.8
+INV-00369,A,Rajkot,Member,Male,Sports and travel,57.69,9,25.96,545.17,1/27/2025,12:10,Ewallet,519.21,25.96,6.9
+INV-00370,B,Gandhinagar,Normal,Male,Health and beauty,24.52,1,1.23,25.75,1/17/2025,16:40,Cash,24.52,1.23,5.9
+INV-00371,C,Surat,Normal,Female,Food and beverages,61.48,4,12.3,258.22,6/21/2025,19:10,Ewallet,245.92,12.3,7.8
+INV-00372,C,Rajkot,Normal,Male,Fashion accessories,82.49,2,8.25,173.23,2/14/2025,20:50,Ewallet,164.98,8.25,7.9
+INV-00373,A,Surat,Member,Female,Food and beverages,78.41,4,15.68,329.32,1/8/2025,11:00,Cash,313.64,15.68,6.6
+INV-00374,B,Vadodara,Normal,Female,Sports and travel,23.85,8,9.54,200.34,5/26/2025,19:50,Cash,190.8,9.54,7.2
+INV-00375,C,Ahmedabad,Normal,Male,Fashion accessories,23.43,8,9.37,196.81,5/5/2025,19:40,Credit card,187.44,9.37,7.7
+INV-00376,A,Vadodara,Normal,Female,Electronic accessories,34.14,9,15.36,322.62,5/3/2025,11:30,Ewallet,307.26,15.36,7.6
+INV-00377,C,Rajkot,Member,Female,Health and beauty,42.5,5,10.62,223.12,2/2/2025,12:10,Credit card,212.5,10.62,7.1
+INV-00378,B,Surat,Normal,Female,Electronic accessories,46.76,7,16.37,343.69,1/1/2025,19:00,Cash,327.32,16.37,8.9
+INV-00379,C,Surat,Member,Female,Electronic accessories,71.17,3,10.68,224.19,1/6/2025,16:50,Ewallet,213.51,10.68,7.8
+INV-00380,C,Gandhinagar,Member,Male,Health and beauty,15.1,,7.55,158.55,2/10/2025,12:40,Credit card,151,7.55,6.4
+INV-00381,C,Surat,Member,Male,Health and beauty,13.12,4,2.62,55.1,1/5/2025,16:50,Credit card,52.48,2.62,6.4
+INV-00382,C,Gandhinagar,Normal,Female,Food and beverages,45.27,10,22.64,475.34,3/21/2025,18:10,Credit card,452.7,22.64,6.3
+INV-00383,A,Ahmedabad,Normal,Male,Food and beverages,72.74,9,32.73,687.39,1/18/2025,20:10,Cash,654.66,32.73,7.8
+INV-00384,A,Rajkot,Member,Female,Health and beauty,27.41,10,13.71,287.81,6/26/2025,19:30,Cash,274.1,13.71,6.2
+INV-00385,B,Gandhinagar,Member,Female,Fashion accessories,67.74,10,33.87,711.27,3/23/2025,20:00,Cash,677.4,33.87,6.4
+INV-00386,A,Ahmedabad,Member,Female,Home and lifestyle,33.38,1,1.67,35.05,3/6/2025,13:20,Ewallet,33.38,1.67,8.4
+INV-00387,A,Surat,Member,Female,Food and beverages,89.75,2,8.98,188.48,3/24/2025,16:50,Cash,179.5,8.98,7.2
+INV-00388,B,Surat,Member,Female,Home and lifestyle,,5,22.65,475.7,5/16/2025,18:10,Ewallet,453.05,22.65,8.6
+INV-00389,A,Ahmedabad,Member,Male,Fashion accessories,36.76,3,5.51,115.79,5/11/2025,17:40,Credit card,110.28,5.51,8
+INV-00390,A,Surat,Normal,Female,Health and beauty,30.7,2,3.07,64.47,1/25/2025,17:50,Credit card,61.4,3.07,5.5
+INV-00391,B,Ahmedabad,Member,Male,Fashion accessories,47.02,1,2.35,49.37,3/10/2025,18:30,Cash,47.02,2.35,6.9
+INV-00392,B,Gandhinagar,Member,Male,Food and beverages,31.65,10,15.82,332.32,6/17/2025,14:30,Credit card,316.5,15.82,8.3
+INV-00393,B,Gandhinagar,Member,Female,Electronic accessories,70.51,3,10.58,222.11,3/23/2025,14:10,Cash,211.53,10.58,5.4
+INV-00394,C,Ahmedabad,Normal,Female,Health and beauty,84.35,1,4.22,88.57,6/27/2025,12:10,Ewallet,84.35,4.22,7.5
+INV-00395,C,Gandhinagar,Normal,Female,Sports and travel,70.58,,3.53,74.11,4/27/2025,14:10,Credit card,70.58,3.53,6.9
+INV-00396,B,Gandhinagar,Normal,Female,Home and lifestyle,,1,4.21,88.4,4/5/2025,17:20,Cash,84.19,4.21,4.7
+INV-00397,B,Gandhinagar,Member,Female,Fashion accessories,45.73,8,18.29,384.13,2/2/2025,14:10,Credit card,365.84,18.29,7.2
+INV-00398,B,Vadodara,Member,Male,Health and beauty,24.07,3,3.61,75.82,4/21/2025,13:50,Credit card,72.21,3.61,5.9
+INV-00399,C,Rajkot,Member,Female,Fashion accessories,76.42,1,3.82,80.24,5/26/2025,17:50,Cash,76.42,3.82,5.5
+INV-00400,C,Surat,Normal,Female,Health and beauty,42.44,7,14.85,311.93,5/5/2025,16:00,Credit card,297.08,14.85,7
+INV-00401,A,Vadodara,Normal,Male,Food and beverages,70.41,10,35.21,739.31,1/16/2025,15:40,Credit card,704.1,35.21,4.5
+INV-00402,A,Gandhinagar,Normal,Male,Food and beverages,34.36,3,5.15,108.23,3/21/2025,14:10,Credit card,103.08,5.15,6.1
+INV-00403,B,Ahmedabad,Normal,Female,Food and beverages,17.31,8,6.92,145.4,2/7/2025,14:50,Credit card,138.48,6.92,10
+INV-00404,C,Gandhinagar,Normal,Male,Fashion accessories,99.33,4,19.87,417.19,6/18/2025,19:50,Ewallet,397.32,19.87,7.8
+INV-00405,C,Rajkot,Member,Female,Sports and travel,24.06,4,4.81,101.05,5/15/2025,11:50,Credit card,96.24,4.81,5.9
+INV-00406,C,Gandhinagar,Normal,Male,Food and beverages,98.96,5,24.74,519.54,3/19/2025,13:20,Credit card,494.8,24.74,8.8
+INV-00407,B,Ahmedabad,Member,Male,Health and beauty,97.96,6,29.39,617.15,6/30/2025,17:40,Cash,587.76,29.39,5.7
+INV-00408,A,Rajkot,Member,Female,Food and beverages,81.44,7,28.5,598.58,3/4/2025,17:30,Ewallet,570.08,28.5,6.3
+INV-00409,B,Gandhinagar,Member,Male,Electronic accessories,69.35,4,13.87,291.27,4/22/2025,20:50,Cash,277.4,13.87,5.5
+INV-00410,A,Rajkot,Member,Male,Food and beverages,62,8,24.8,520.8,3/30/2025,10:10,Cash,496,24.8,7.3
+INV-00411,A,Surat,Member,Male,Fashion accessories,87.95,6,26.39,554.09,6/9/2025,11:50,Cash,527.7,26.39,8.8
+INV-00412,B,Surat,Member,Male,Sports and travel,36.05,1,1.8,37.85,2/7/2025,14:40,Ewallet,36.05,1.8,5.7
+INV-00413,A,Gandhinagar,Member,Male,Electronic accessories,52.09,1,2.6,54.69,5/30/2025,18:30,Cash,52.09,2.6,4.3
+INV-00414,A,Rajkot,Member,Male,Fashion accessories,65.75,9,29.59,621.34,5/24/2025,19:20,Cash,591.75,29.59,8.4
+INV-00415,C,Ahmedabad,Member,Female,Fashion accessories,47.01,10,23.51,493.61,2/21/2025,20:00,Cash,470.1,23.51,9
+INV-00416,A,Gandhinagar,Member,Female,Fashion accessories,48.47,6,14.54,305.36,1/29/2025,20:10,Credit card,290.82,14.54,4.4
+INV-00417,B,Surat,Member,Male,Health and beauty,39.73,10,19.87,417.17,5/24/2025,16:00,Cash,397.3,19.87,7.6
+INV-00418,B,Surat,Member,Female,Fashion accessories,60.78,8,24.31,510.55,3/17/2025,19:20,Ewallet,486.24,24.31,7.3
+INV-00419,A,Gandhinagar,Normal,Female,Health and beauty,86.55,7,30.29,636.14,5/25/2025,14:40,Ewallet,605.85,30.29,6
+INV-00420,C,Rajkot,Normal,Female,Fashion accessories,28.14,6,8.44,177.28,3/5/2025,10:40,Credit card,168.84,8.44,5.2
+INV-00421,C,Surat,Normal,Male,Home and lifestyle,94.1,4,18.82,395.22,4/1/2025,15:20,Ewallet,376.4,18.82,8.3
+INV-00422,A,Rajkot,Normal,Female,Electronic accessories,72.02,7,25.21,529.35,3/30/2025,17:50,Ewallet,504.14,25.21,7.2
+INV-00423,A,Surat,Member,Male,Home and lifestyle,84.09,9,37.84,794.65,1/13/2025,16:20,Credit card,756.81,37.84,7.3
+INV-00424,B,Surat,Normal,Female,Fashion accessories,60.06,10,30.03,630.63,3/13/2025,11:10,Cash,600.6,30.03,6.2
+INV-00425,A,Vadodara,Member,Male,Electronic accessories,80.16,10,40.08,841.68,1/5/2025,14:30,Credit card,801.6,40.08,6
+INV-00426,C,Surat,Member,Male,Electronic accessories,11.46,7,4.01,84.23,1/12/2025,20:00,Cash,80.22,4.01,4
+INV-00427,A,Ahmedabad,Normal,Female,Sports and travel,83.65,1,4.18,87.83,6/18/2025,13:00,Cash,83.65,4.18,6.7
+INV-00428,B,Gandhinagar,Member,Female,Home and lifestyle,13.61,10,6.8,142.9,1/3/2025,18:40,Ewallet,136.1,6.8,8.9
+INV-00429,B,Gandhinagar,Normal,Male,Sports and travel,90.09,9,40.54,851.35,2/2/2025,19:50,Credit card,810.81,40.54,5.8
+INV-00430,B,Rajkot,Normal,Female,Electronic accessories,99.28,4,19.86,416.98,5/1/2025,10:40,Ewallet,397.12,19.86,5
+INV-00431,B,Surat,Normal,Female,Health and beauty,36.47,3,5.47,114.88,2/19/2025,15:10,Ewallet,109.41,5.47,7.6
+INV-00432,B,Ahmedabad,Normal,Female,Electronic accessories,28.93,4,5.79,121.51,5/17/2025,12:20,Cash,115.72,5.79,7.8
+INV-00433,A,Rajkot,Member,Male,Sports and travel,78.88,4,15.78,331.3,6/27/2025,20:00,Ewallet,315.52,15.78,6.2
+INV-00434,A,Vadodara,Member,Male,Home and lifestyle,32.77,10,16.39,344.09,1/29/2025,18:10,Credit card,327.7,16.39,6.5
+INV-00435,A,Rajkot,Member,Female,Fashion accessories,87.9,2,8.79,184.59,2/8/2025,14:40,Ewallet,175.8,8.79,7.3
+INV-00436,A,Rajkot,Member,Female,Fashion accessories,19.26,1,0.96,20.22,4/1/2025,15:40,Ewallet,19.26,0.96,6.8
+INV-00437,B,Surat,Normal,Female,Home and lifestyle,21.34,10,10.67,224.07,4/10/2025,20:00,Cash,213.4,10.67,8.3
+INV-00438,C,Vadodara,Normal,Male,Fashion accessories,98.12,1,4.91,103.03,6/22/2025,18:40,Credit card,98.12,4.91,10
+INV-00439,A,Rajkot,Normal,Male,Fashion accessories,70.65,8,28.26,593.46,1/17/2025,18:50,Ewallet,565.2,28.26,4.8
+INV-00440,C,Ahmedabad,Member,Female,Sports and travel,86.22,2,8.62,181.06,2/25/2025,17:40,Cash,172.44,8.62,8.6
+INV-00441,A,Ahmedabad,Member,Female,Home and lifestyle,39.19,10,19.6,411.5,2/15/2025,18:30,Ewallet,391.9,19.6,
+INV-00442,A,Gandhinagar,Member,Female,Food and beverages,70.88,5,17.72,372.12,3/8/2025,13:20,Credit card,354.4,17.72,8.8
+INV-00443,C,Vadodara,Member,Female,Health and beauty,63.48,4,12.7,266.62,5/22/2025,15:40,Ewallet,253.92,12.7,7.9
+INV-00444,B,Vadodara,Normal,Female,Health and beauty,64.28,8,25.71,539.95,3/8/2025,14:30,Ewallet,514.24,25.71,7.1
+INV-00445,A,Gandhinagar,Member,Female,Fashion accessories,71.43,,7.14,150,1/23/2025,14:10,Cash,142.86,7.14,8
+INV-00446,A,Rajkot,Member,Male,Health and beauty,61.78,10,30.89,648.69,4/4/2025,13:40,Ewallet,617.8,30.89,6.5
+INV-00447,A,Vadodara,Member,Female,Home and lifestyle,48.62,9,21.88,459.46,5/31/2025,11:50,Cash,437.58,21.88,6
+INV-00448,C,Ahmedabad,Normal,Male,Home and lifestyle,34.83,7,12.19,256,6/4/2025,15:10,Credit card,243.81,12.19,8.1
+INV-00449,B,Ahmedabad,Normal,Female,Electronic accessories,79.17,7,27.71,581.9,2/23/2025,18:40,Ewallet,554.19,27.71,5.9
+INV-00450,C,Surat,Member,Female,Electronic accessories,30.36,1,1.52,31.88,5/18/2025,10:00,Credit card,30.36,1.52,7.8
+INV-00451,C,Vadodara,Member,Male,Health and beauty,72.31,2,7.23,151.85,3/18/2025,16:30,Credit card,144.62,7.23,7
+INV-00452,B,Rajkot,Member,Male,Food and beverages,31,4,6.2,130.2,1/16/2025,15:30,Ewallet,124,6.2,4
+INV-00453,C,Gandhinagar,Member,Male,Electronic accessories,66.28,4,13.26,278.38,2/10/2025,12:00,Cash,265.12,13.26,6.3
+INV-00454,B,Gandhinagar,Normal,Male,Electronic accessories,77.24,3,11.59,243.31,4/8/2025,10:20,Credit card,231.72,11.59,7.4
+INV-00455,A,Rajkot,Normal,Female,Home and lifestyle,29.68,7,10.39,218.15,5/8/2025,13:50,Credit card,207.76,10.39,6.5
+INV-00456,B,Surat,Member,Male,Food and beverages,15.39,8,6.16,129.28,3/2/2025,18:30,Ewallet,123.12,6.16,4
+INV-00457,A,Gandhinagar,Member,Female,Fashion accessories,21.79,2,2.18,45.76,3/27/2025,11:10,Ewallet,43.58,2.18,8.7
+INV-00458,C,Vadodara,Normal,Male,Health and beauty,64.54,4,12.91,271.07,4/28/2025,12:50,Ewallet,258.16,12.91,7.2
+INV-00459,C,Surat,Member,Female,Electronic accessories,86.45,3,12.97,272.32,4/10/2025,11:30,Ewallet,259.35,12.97,7.6
+INV-00460,A,Vadodara,Normal,Female,Food and beverages,14.05,2,1.41,29.51,2/18/2025,11:20,Ewallet,28.1,1.41,6.4
+INV-00461,C,Ahmedabad,Member,Female,Food and beverages,76.07,6,22.82,479.24,6/29/2025,19:10,Ewallet,456.42,22.82,7.7
+INV-00462,B,Surat,Member,Female,Health and beauty,40.72,4,8.14,171.02,1/2/2025,20:50,Cash,162.88,8.14,9.4
+INV-00463,A,Gandhinagar,Member,Female,Food and beverages,53.07,6,15.92,334.34,4/30/2025,20:10,Credit card,318.42,15.92,6
+INV-00464,C,Surat,Member,Female,Food and beverages,93.6,2,9.36,196.56,6/27/2025,17:00,Cash,187.2,9.36,9.2
+INV-00465,A,Surat,Normal,Male,Food and beverages,39.88,4,7.98,167.5,5/3/2025,12:40,Cash,159.52,7.98,7.5
+INV-00466,B,Surat,Member,Female,Electronic accessories,51.88,6,15.56,326.84,3/27/2025,16:00,Ewallet,311.28,15.56,5.9
+INV-00467,B,Surat,Member,Male,Health and beauty,11.23,5,2.81,58.96,6/20/2025,17:50,Credit card,56.15,2.81,9.9
+INV-00468,C,Vadodara,Member,Male,Food and beverages,17.34,3,2.6,54.62,3/18/2025,12:40,Cash,52.02,2.6,7.5
+INV-00469,B,Ahmedabad,Member,Female,Food and beverages,33.27,8,13.31,279.47,5/16/2025,11:00,Ewallet,266.16,13.31,7.9
+INV-00470,A,Rajkot,Member,Male,Electronic accessories,12.51,7,4.38,91.95,2/28/2025,17:40,Ewallet,87.57,4.38,6.6
+INV-00471,B,Surat,Member,Female,Health and beauty,66.82,3,10.02,210.48,1/12/2025,12:30,Credit card,200.46,10.02,6
+INV-00472,A,Gandhinagar,Normal,Male,Home and lifestyle,48.38,6,14.51,304.79,1/4/2025,16:10,Cash,290.28,14.51,7.2
+INV-00473,A,Surat,Member,Female,Electronic accessories,59.33,4,11.87,249.19,4/27/2025,10:40,Cash,237.32,11.87,9.1
+INV-00474,B,Gandhinagar,Member,Male,Health and beauty,25.72,5,6.43,135.03,4/5/2025,15:30,Cash,128.6,6.43,6.6
+INV-00475,C,Vadodara,Normal,Female,Food and beverages,36.63,5,9.16,192.31,5/5/2025,18:20,Ewallet,183.15,9.16,7
+INV-00476,B,Gandhinagar,Member,Female,Health and beauty,69.74,7,24.41,512.59,2/10/2025,12:00,Credit card,488.18,24.41,8.9
+INV-00477,A,Rajkot,Normal,Female,Health and beauty,96.88,5,24.22,508.62,5/3/2025,16:20,Credit card,484.4,24.22,6.6
+INV-00478,A,Ahmedabad,Member,Female,Fashion accessories,14.54,3,2.18,45.8,1/7/2025,15:50,Cash,43.62,2.18,7.7
+INV-00479,B,Gandhinagar,Normal,Male,Health and beauty,90.13,10,45.06,946.36,3/10/2025,17:30,Ewallet,901.3,45.06,8.1
+INV-00480,C,Gandhinagar,Normal,Female,Home and lifestyle,61.92,5,15.48,325.08,3/10/2025,12:20,Cash,309.6,15.48,6.7
+INV-00481,C,Ahmedabad,Normal,Male,Health and beauty,60.75,7,21.26,446.51,3/22/2025,12:20,Credit card,425.25,21.26,7.4
+INV-00482,A,Rajkot,Normal,Male,Home and lifestyle,55.03,5,13.76,288.91,1/30/2025,13:30,Ewallet,275.15,13.76,7.9
+INV-00483,A,Surat,Member,Male,Food and beverages,16.25,5,4.06,85.31,3/14/2025,12:10,Cash,81.25,4.06,6.5
+INV-00484,C,Gandhinagar,Normal,Female,Home and lifestyle,18.09,9,8.14,170.95,1/6/2025,18:40,Cash,162.81,8.14,8.1
+INV-00485,B,Ahmedabad,Member,Male,Food and beverages,64.08,3,9.61,201.85,3/30/2025,20:50,Ewallet,192.24,9.61,6.3
+INV-00486,A,Vadodara,Member,Male,Food and beverages,40.69,6,12.21,256.35,5/27/2025,13:50,Credit card,244.14,12.21,6.1
+INV-00487,A,Ahmedabad,Member,Male,Home and lifestyle,92.55,1,4.63,97.18,3/7/2025,15:00,Ewallet,92.55,4.63,5
+INV-00488,C,Vadodara,Member,Female,Electronic accessories,46.59,10,23.3,489.2,1/10/2025,17:40,Cash,465.9,23.3,6.3
+INV-00489,B,Rajkot,Member,Female,Sports and travel,22.9,5,5.72,120.22,5/24/2025,20:00,Cash,114.5,5.72,5.9
+INV-00490,C,Surat,Member,Male,Health and beauty,74.32,8,29.73,624.29,2/6/2025,17:50,Cash,594.56,29.73,6.5
+INV-00491,B,Ahmedabad,Member,Female,Fashion accessories,36.4,5,9.1,191.1,3/18/2025,14:40,Cash,182,9.1,7.8
+INV-00492,B,Gandhinagar,Normal,Female,Sports and travel,57.29,9,25.78,541.39,3/18/2025,14:20,Credit card,515.61,25.78,4.8
+INV-00493,B,Rajkot,Normal,Male,Health and beauty,72.8,6,21.84,458.64,2/1/2025,15:10,Credit card,436.8,21.84,4.4
+INV-00494,A,Ahmedabad,Member,Male,Health and beauty,91.02,8,36.41,764.57,2/16/2025,19:20,Cash,728.16,36.41,6
+INV-00495,C,Gandhinagar,Member,Female,Food and beverages,81.3,10,40.65,853.65,4/20/2025,16:10,Credit card,813,40.65,7.6
+INV-00496,C,Ahmedabad,Member,Male,Health and beauty,70.87,8,28.35,595.31,6/20/2025,19:30,Credit card,566.96,28.35,7.4
+INV-00497,B,Vadodara,Member,Female,Fashion accessories,71.17,3,10.68,224.19,4/30/2025,16:00,Credit card,213.51,10.68,6
+INV-00498,A,Ahmedabad,Member,Female,Health and beauty,95.13,7,33.3,699.21,6/13/2025,13:00,Cash,665.91,33.3,8.5
+INV-00499,A,Ahmedabad,Member,Female,Home and lifestyle,36.62,7,12.82,269.16,6/3/2025,15:30,Ewallet,256.34,12.82,6.1
+INV-00500,C,Ahmedabad,Member,Female,Sports and travel,10.1,10,5.05,106.05,1/10/2025,16:40,Ewallet,101,5.05,7.6
+INV-00501,A,Rajkot,Normal,Female,Home and lifestyle,34.48,6,10.34,217.22,6/8/2025,14:30,Ewallet,206.88,10.34,6.5
+INV-00502,A,Ahmedabad,Member,Female,Fashion accessories,29.61,7,10.36,217.63,4/7/2025,14:50,Cash,207.27,10.36,5.9
+INV-00503,B,Gandhinagar,Member,Male,Health and beauty,69.57,2,6.96,146.1,6/6/2025,11:30,Credit card,139.14,6.96,6.2
+INV-00504,A,Vadodara,Member,Male,Fashion accessories,67.03,9,30.16,633.43,1/5/2025,16:10,Credit card,603.27,30.16,8
+INV-00505,B,Vadodara,Member,Female,Food and beverages,63.41,10,31.7,665.8,3/18/2025,15:50,Cash,634.1,31.7,7.5
+INV-00506,C,Ahmedabad,Member,Female,Home and lifestyle,11.46,10,5.73,120.33,1/1/2025,20:30,Cash,114.6,5.73,8.3
+INV-00507,A,Rajkot,Normal,Female,Home and lifestyle,75.59,1,3.78,79.37,5/11/2025,10:00,Ewallet,75.59,3.78,7.5
+INV-00508,C,Rajkot,Member,Male,Electronic accessories,39.12,1,1.96,41.08,3/8/2025,13:20,Ewallet,39.12,1.96,4.9
+INV-00509,C,Gandhinagar,Member,Female,Health and beauty,69.86,3,10.48,220.06,6/12/2025,12:10,Cash,209.58,10.48,9.7
+INV-00510,A,Ahmedabad,Normal,Male,Food and beverages,60.09,3,9.01,189.28,1/15/2025,12:10,Ewallet,180.27,9.01,7.5
+INV-00511,A,Vadodara,Normal,Female,Home and lifestyle,40.85,1,2.04,42.89,4/3/2025,16:40,Credit card,40.85,2.04,7.7
+INV-00512,C,Rajkot,Normal,Female,Home and lifestyle,22.11,7,7.74,162.51,1/30/2025,20:20,Cash,154.77,7.74,6.5
+INV-00513,A,Ahmedabad,Member,Male,Food and beverages,18.5,4,3.7,77.7,4/13/2025,19:10,Cash,74,3.7,8.4
+INV-00514,B,Rajkot,Normal,Male,Fashion accessories,84.84,10,42.42,890.82,3/23/2025,13:30,Credit card,848.4,42.42,5.6
+INV-00515,B,Rajkot,Member,Female,Fashion accessories,92.66,2,9.27,194.59,3/16/2025,17:10,Credit card,185.32,9.27,7.8
+INV-00516,A,Vadodara,Member,Female,Health and beauty,68.48,10,34.24,719.04,6/20/2025,20:10,Credit card,684.8,34.24,4.3
+INV-00517,C,Surat,Member,Female,Electronic accessories,19.31,5,4.83,101.38,3/1/2025,18:10,Ewallet,96.55,4.83,7.9
+INV-00518,A,Gandhinagar,Member,Male,Home and lifestyle,46.18,6,13.85,290.93,2/9/2025,12:40,Cash,277.08,13.85,5.6
+INV-00519,A,Gandhinagar,Member,Male,Electronic accessories,75.6,9,34.02,714.42,6/6/2025,14:10,Ewallet,680.4,34.02,7.4
+INV-00520,C,Vadodara,Member,Male,Fashion accessories,80.18,4,16.04,336.76,3/15/2025,13:10,Credit card,320.72,16.04,8.8
+INV-00521,C,Rajkot,Normal,Male,Fashion accessories,20.64,2,2.06,43.34,5/1/2025,19:40,Ewallet,41.28,2.06,8.1
+INV-00522,B,Ahmedabad,Normal,Male,Sports and travel,10,5,2.5,52.5,5/27/2025,15:50,Credit card,50,2.5,8.6
+INV-00523,C,Rajkot,Normal,Male,Health and beauty,74.09,3,11.11,233.38,1/3/2025,20:20,Ewallet,222.27,11.11,8.5
+INV-00524,B,Vadodara,Member,Female,Sports and travel,42.09,2,4.21,88.39,2/5/2025,19:50,Ewallet,84.18,4.21,6.3
+INV-00525,C,Gandhinagar,Normal,Female,Sports and travel,32.9,1,1.64,34.54,2/12/2025,13:00,Credit card,32.9,1.64,7.8
+INV-00526,A,Rajkot,Member,Male,Sports and travel,11.16,10,5.58,117.18,5/23/2025,17:40,Ewallet,111.6,5.58,4.8
+INV-00527,B,Gandhinagar,Normal,Female,Health and beauty,58.63,2,5.86,123.12,6/18/2025,12:40,Cash,117.26,5.86,6.1
+INV-00528,B,Ahmedabad,Member,Female,Health and beauty,86.6,6,25.98,545.58,4/25/2025,20:10,Ewallet,519.6,25.98,8.8
+INV-00529,B,Gandhinagar,Normal,Male,Food and beverages,96.19,8,38.48,808,4/19/2025,14:10,Ewallet,769.52,38.48,6.5
+INV-00530,A,Gandhinagar,Member,Female,Electronic accessories,60.92,3,9.14,191.9,3/31/2025,10:00,Cash,182.76,9.14,4.6
+INV-00531,A,Surat,Normal,Male,Electronic accessories,56.3,9,25.34,532.04,6/13/2025,15:10,Credit card,506.7,25.34,9.6
+INV-00532,A,Surat,Normal,Male,Food and beverages,17.66,9,7.95,166.89,3/25/2025,20:30,Cash,158.94,7.95,7.7
+INV-00533,A,Surat,Member,Female,Food and beverages,59.4,2,5.94,124.74,3/18/2025,14:10,Ewallet,118.8,5.94,8
+INV-00534,A,Gandhinagar,Member,Male,Fashion accessories,44.2,8,17.68,371.28,6/10/2025,17:10,Credit card,353.6,17.68,5.7
+INV-00535,B,Vadodara,Normal,Male,Sports and travel,64.64,10,32.32,678.72,1/5/2025,18:30,Ewallet,646.4,32.32,7.4
+INV-00536,A,Gandhinagar,Member,Male,Food and beverages,44.99,5,11.25,236.2,3/19/2025,17:00,Ewallet,224.95,11.25,7.3
+INV-00537,B,Vadodara,Normal,Male,Home and lifestyle,31.63,4,6.33,132.85,4/1/2025,17:30,Cash,126.52,6.33,5.9
+INV-00538,A,Vadodara,Member,Male,Electronic accessories,18.55,10,9.28,194.78,3/28/2025,12:40,Cash,185.5,9.28,6.8
+INV-00539,C,Surat,Member,Male,Food and beverages,38.34,5,9.58,201.28,1/14/2025,13:30,Credit card,191.7,9.58,5
+INV-00540,B,Rajkot,Member,Male,Home and lifestyle,18.7,4,3.74,78.54,4/14/2025,20:20,Credit card,74.8,3.74,6.5
+INV-00541,C,Ahmedabad,Member,Male,Home and lifestyle,25.92,8,10.37,217.73,3/24/2025,13:40,Credit card,207.36,10.37,8.3
+INV-00542,B,Surat,Normal,Female,Home and lifestyle,98.86,4,19.77,415.21,6/24/2025,20:10,Ewallet,395.44,19.77,6
+INV-00543,C,Surat,Member,Female,Fashion accessories,49.97,10,24.98,524.68,2/23/2025,14:40,Cash,499.7,24.98,9.5
+INV-00544,A,Rajkot,Member,Female,Fashion accessories,57.87,6,17.36,364.58,5/12/2025,18:00,Cash,347.22,17.36,5.1
+INV-00545,A,Ahmedabad,Member,Male,Home and lifestyle,88.63,2,8.86,186.12,4/5/2025,18:00,Cash,177.26,8.86,6.7
+INV-00546,A,Gandhinagar,Member,Male,Fashion accessories,99.6,5,24.9,522.9,1/9/2025,19:30,Credit card,498,24.9,6.1
+INV-00547,B,Gandhinagar,Normal,Female,Sports and travel,62.44,6,18.73,393.37,2/22/2025,10:40,Cash,374.64,18.73,6.8
+INV-00548,C,Surat,Normal,Female,Home and lifestyle,83.12,5,20.78,436.38,3/18/2025,17:10,Cash,415.6,20.78,8.8
+INV-00549,A,Ahmedabad,Member,Female,Sports and travel,39.42,2,3.94,82.78,3/1/2025,10:00,Cash,78.84,3.94,5.7
+INV-00550,C,Surat,Normal,Male,Sports and travel,37.52,7,13.13,275.77,2/15/2025,11:50,Credit card,262.64,13.13,6.4
+INV-00551,C,Vadodara,Normal,Female,Home and lifestyle,46.24,4,9.25,194.21,2/23/2025,16:10,Cash,184.96,9.25,7.9
+INV-00552,A,Surat,Member,Female,Electronic accessories,70.53,8,28.21,592.45,3/15/2025,17:50,Credit card,564.24,28.21,7.1
+INV-00553,A,Surat,Normal,Male,Home and lifestyle,71.4,7,24.99,524.79,4/22/2025,10:20,Cash,499.8,24.99,7.2
+INV-00554,C,Gandhinagar,Member,Female,Home and lifestyle,38.37,7,13.43,282.02,4/5/2025,12:50,Cash,268.59,13.43,5.7
+INV-00555,A,Gandhinagar,Member,Male,Fashion accessories,21.99,9,9.9,207.81,6/14/2025,16:00,Cash,197.91,9.9,6.9
+INV-00556,A,Gandhinagar,Normal,Male,Home and lifestyle,66.92,1,3.35,70.27,1/23/2025,18:30,Credit card,66.92,3.35,8.5
+INV-00557,A,Vadodara,Member,Male,Electronic accessories,21.55,10,10.78,226.28,1/27/2025,17:20,Credit card,215.5,10.78,4.9
+INV-00558,B,Gandhinagar,Normal,Female,Fashion accessories,62.06,6,18.62,390.98,3/11/2025,17:40,Cash,372.36,18.62,6.1
+INV-00559,C,Ahmedabad,Normal,Female,Health and beauty,72.41,6,21.72,456.18,4/19/2025,18:10,Ewallet,434.46,21.72,4.6
+INV-00560,C,Rajkot,Member,Male,Health and beauty,73.06,6,21.92,460.28,3/18/2025,19:00,Credit card,438.36,21.92,7.7
+INV-00561,B,Ahmedabad,Normal,Female,Sports and travel,77.81,6,23.34,490.2,6/28/2025,12:20,Credit card,466.86,23.34,8.6
+INV-00562,C,Ahmedabad,Member,Female,Sports and travel,88.56,10,44.28,929.88,2/19/2025,17:20,Cash,885.6,44.28,6.8
+INV-00563,A,Gandhinagar,Member,Female,Electronic accessories,55,7,19.25,404.25,5/4/2025,10:00,Ewallet,385,19.25,5.7
+INV-00564,C,Rajkot,Normal,Female,Food and beverages,75.72,10,37.86,795.06,1/19/2025,17:40,Cash,757.2,37.86,5.7
+INV-00565,A,Rajkot,Normal,Male,Health and beauty,65.73,6,19.72,414.1,1/1/2025,16:40,Credit card,394.38,19.72,6.6
+INV-00566,B,Rajkot,Member,Female,Sports and travel,26.8,1,1.34,28.14,2/9/2025,17:30,Credit card,26.8,1.34,6.6
+INV-00567,A,Vadodara,Member,Male,Health and beauty,12.31,3,1.85,38.78,6/9/2025,10:50,Cash,36.93,1.85,8.2
+INV-00568,C,Gandhinagar,Normal,Male,Electronic accessories,35.61,2,3.56,74.78,1/22/2025,15:40,Cash,71.22,3.56,6.1
+INV-00569,C,Rajkot,Normal,Female,Electronic accessories,49.87,6,14.96,314.18,4/22/2025,16:30,Ewallet,299.22,14.96,7.6
+INV-00570,C,Vadodara,Normal,Male,Food and beverages,65.54,8,26.22,550.54,2/9/2025,20:50,Ewallet,524.32,26.22,6.6
+INV-00571,B,Surat,Member,Female,Food and beverages,86.5,3,12.98,272.48,2/7/2025,14:20,Credit card,259.5,12.98,6
+INV-00572,B,Surat,Member,Female,Fashion accessories,27.66,10,13.83,290.43,2/17/2025,14:00,Ewallet,276.6,13.83,6.6
+INV-00573,C,Vadodara,Member,Male,Electronic accessories,21.3,8,8.52,178.92,3/16/2025,16:40,Ewallet,170.4,8.52,7.4
+INV-00574,A,Vadodara,Normal,Male,Sports and travel,96.71,8,38.68,812.36,6/28/2025,20:30,Credit card,773.68,38.68,8.2
+INV-00575,B,Gandhinagar,Member,Male,Health and beauty,19.72,5,4.93,103.53,4/17/2025,12:20,Credit card,98.6,4.93,6.7
+INV-00576,C,Gandhinagar,Member,Male,Home and lifestyle,53.06,8,21.22,445.7,1/8/2025,15:40,Credit card,424.48,21.22,5.4
+INV-00577,C,Surat,Normal,Female,Food and beverages,62.7,6,18.81,395.01,3/27/2025,16:10,Credit card,376.2,18.81,8.3
+INV-00578,B,Rajkot,Member,Female,Home and lifestyle,58.72,5,14.68,308.28,3/9/2025,10:20,Cash,293.6,14.68,5.8
+INV-00579,B,Surat,Normal,Female,Sports and travel,17.74,9,7.98,167.64,3/16/2025,11:40,Credit card,159.66,7.98,7.3
+INV-00580,B,Rajkot,Normal,Male,Food and beverages,15.13,7,5.3,111.21,5/17/2025,13:20,Credit card,105.91,5.3,7
+INV-00581,A,Rajkot,Normal,Male,Home and lifestyle,19.49,8,7.8,163.72,3/31/2025,17:00,Credit card,155.92,7.8,6.8
+INV-00582,A,Gandhinagar,Member,Male,Sports and travel,62.7,1,3.14,65.84,5/10/2025,20:00,Ewallet,62.7,3.14,6.4
+INV-00583,C,Ahmedabad,Member,Female,Health and beauty,58.99,2,5.9,123.88,3/21/2025,19:00,Credit card,117.98,5.9,7.8
+INV-00584,B,Ahmedabad,Normal,Male,Sports and travel,31.04,8,12.42,260.74,4/5/2025,15:50,Cash,248.32,12.42,4
+INV-00585,A,Vadodara,Normal,Female,Fashion accessories,67.4,9,30.33,636.93,3/11/2025,10:10,Cash,606.6,30.33,8.5
+INV-00586,B,Gandhinagar,Normal,Male,Food and beverages,83.81,4,16.76,352,3/31/2025,19:00,Credit card,335.24,16.76,5.8
+INV-00587,C,Rajkot,Member,Female,Electronic accessories,13.74,10,6.87,144.27,2/28/2025,14:10,Cash,137.4,6.87,7.5
+INV-00588,A,Ahmedabad,Normal,Female,Health and beauty,54.83,10,27.42,575.72,5/27/2025,16:00,Ewallet,548.3,27.42,7.5
+INV-00589,A,Rajkot,Normal,Male,Home and lifestyle,72.04,9,32.42,680.78,1/28/2025,15:50,Credit card,648.36,32.42,8.7
+INV-00590,A,Ahmedabad,Normal,Male,Food and beverages,32.71,4,6.54,137.38,3/13/2025,18:20,Cash,130.84,6.54,7.3
+INV-00591,C,Ahmedabad,Normal,Female,Electronic accessories,37.7,10,18.85,395.85,1/14/2025,17:40,Cash,377,18.85,5.9
+INV-00592,B,Ahmedabad,Normal,Female,Sports and travel,65.23,10,32.62,684.92,1/24/2025,13:40,Credit card,652.3,32.62,4.9
+INV-00593,A,Gandhinagar,Normal,Male,Electronic accessories,90.81,10,45.4,953.5,4/22/2025,20:00,Cash,908.1,45.4,6.5
+INV-00594,C,Surat,Member,Male,Food and beverages,82.89,9,37.3,783.31,2/13/2025,14:40,Credit card,746.01,37.3,4.5
+INV-00595,B,Rajkot,Member,Female,Food and beverages,62.48,7,21.87,459.23,2/25/2025,16:00,Cash,437.36,21.87,6.2
+INV-00596,C,Gandhinagar,Member,Male,Fashion accessories,75.72,2,7.57,159.01,4/30/2025,17:00,Ewallet,151.44,7.57,6.6
+INV-00597,B,Gandhinagar,Member,Female,Fashion accessories,42.83,9,19.27,404.74,6/28/2025,14:30,Cash,385.47,19.27,6.1
+INV-00598,C,Gandhinagar,Member,Female,Electronic accessories,67.69,4,13.54,284.3,2/1/2025,18:30,Cash,270.76,13.54,7.1
+INV-00599,B,Gandhinagar,Member,Male,Sports and travel,51.96,8,20.78,436.46,6/27/2025,19:30,Credit card,415.68,20.78,6.7
+INV-00600,A,Gandhinagar,Member,Male,Electronic accessories,27.09,7,9.48,199.11,6/18/2025,13:10,Cash,189.63,9.48,6.6
+INV-00601,B,Vadodara,Member,Male,Food and beverages,73.16,7,25.61,537.73,1/25/2025,13:30,Credit card,512.12,25.61,4
+INV-00602,C,Rajkot,Normal,Male,Food and beverages,60.08,8,24.03,504.67,4/26/2025,17:00,Ewallet,480.64,24.03,5.3
+INV-00603,C,Gandhinagar,Normal,Male,Home and lifestyle,42.28,1,2.11,44.39,3/7/2025,10:50,Credit card,42.28,2.11,7.8
+INV-00604,B,Rajkot,Member,Female,Fashion accessories,92.02,5,23.01,483.11,2/11/2025,17:50,Credit card,460.1,23.01,8
+INV-00605,A,Vadodara,Normal,Female,Home and lifestyle,11.88,2,1.19,24.95,6/13/2025,14:20,Cash,23.76,1.19,4.6
+INV-00606,A,Vadodara,Member,Male,Health and beauty,38.42,2,3.84,80.68,3/17/2025,20:30,Ewallet,76.84,3.84,5.9
+INV-00607,B,Rajkot,Member,Male,Food and beverages,15.12,1,0.76,15.88,5/17/2025,10:50,Credit card,15.12,0.76,8.4
+INV-00608,B,Ahmedabad,Member,Male,Home and lifestyle,78.99,5,19.75,414.7,6/13/2025,13:30,Cash,394.95,19.75,6.1
+INV-00609,C,Surat,Member,Female,Electronic accessories,73.19,2,7.32,153.7,2/7/2025,11:20,Cash,146.38,7.32,6.9
+INV-00610,A,Ahmedabad,Normal,Male,Fashion accessories,39.82,4,7.96,167.24,6/10/2025,13:50,Credit card,159.28,7.96,8.9
+INV-00611,B,Ahmedabad,Normal,Male,Fashion accessories,70.81,3,10.62,223.05,6/19/2025,17:00,Cash,212.43,10.62,6.5
+INV-00612,A,Ahmedabad,Member,Female,Sports and travel,45.63,3,6.84,143.73,3/2/2025,14:10,Credit card,136.89,6.84,6.3
+INV-00613,B,Gandhinagar,Member,Female,Electronic accessories,78.06,2,7.81,163.93,6/23/2025,10:30,Credit card,156.12,7.81,6.8
+INV-00614,B,Vadodara,Member,Male,Sports and travel,50.88,6,15.26,320.54,3/30/2025,16:50,Credit card,305.28,15.26,9.4
+INV-00615,A,Ahmedabad,Member,Male,Home and lifestyle,47.11,2,4.71,98.93,1/18/2025,10:50,Ewallet,94.22,4.71,7.6
+INV-00616,B,Vadodara,Member,Male,Health and beauty,94.13,8,37.65,790.69,3/11/2025,18:20,Credit card,753.04,37.65,7
+INV-00617,B,Rajkot,Member,Female,Electronic accessories,32.58,8,13.03,273.67,3/23/2025,12:00,Cash,260.64,13.03,6.3
+INV-00618,C,Surat,Normal,Male,Electronic accessories,20.84,5,5.21,109.41,4/26/2025,12:40,Ewallet,104.2,5.21,7.7
+INV-00619,B,Rajkot,Normal,Male,Electronic accessories,62.61,10,31.31,657.41,3/21/2025,15:50,Cash,626.1,31.31,7.9
+INV-00620,B,Rajkot,Member,Male,Sports and travel,97.24,7,34.03,714.71,1/15/2025,19:10,Ewallet,680.68,34.03,5.6
+INV-00621,B,Gandhinagar,Normal,Female,Home and lifestyle,44.01,4,8.8,184.84,6/25/2025,15:20,Ewallet,176.04,8.8,7.9
+INV-00622,C,Surat,Member,Female,Electronic accessories,15.58,1,0.78,16.36,1/13/2025,20:50,Ewallet,15.58,0.78,6.8
+INV-00623,A,Rajkot,Member,Male,Electronic accessories,40.54,2,4.05,85.13,4/29/2025,20:50,Ewallet,81.08,4.05,7
+INV-00624,C,Rajkot,Member,Male,Fashion accessories,,10,27.76,583.06,2/12/2025,15:20,Cash,555.3,27.76,5.9
+INV-00625,C,Surat,Normal,Female,Health and beauty,24.57,10,12.28,257.98,2/26/2025,10:20,Credit card,245.7,12.28,6.5
+INV-00626,A,Surat,Normal,Female,Fashion accessories,69.23,4,13.85,290.77,1/17/2025,14:30,Cash,276.92,13.85,5.7
+INV-00627,C,Rajkot,Normal,Female,Fashion accessories,99.8,1,4.99,104.79,6/27/2025,15:50,Credit card,99.8,4.99,5.6
+INV-00628,A,Surat,Member,Female,Health and beauty,50.66,8,20.26,425.54,2/1/2025,17:40,Cash,405.28,20.26,7.5
+INV-00629,C,Rajkot,Normal,Female,Home and lifestyle,41.93,9,18.87,396.24,5/30/2025,10:10,Ewallet,377.37,18.87,6.5
+INV-00630,A,Rajkot,Member,Female,Fashion accessories,46.06,4,9.21,193.45,2/24/2025,14:00,Ewallet,184.24,9.21,5.3
+INV-00631,B,Gandhinagar,Normal,Female,Home and lifestyle,20.36,10,10.18,213.78,1/13/2025,12:00,Credit card,203.6,10.18,9.8
+INV-00632,C,Ahmedabad,Member,Female,Fashion accessories,89.49,3,13.42,281.89,2/16/2025,11:40,Credit card,268.47,13.42,5.5
+INV-00633,C,Rajkot,Member,Female,Food and beverages,47.33,2,4.73,99.39,3/28/2025,20:20,Cash,94.66,4.73,8.4
+INV-00634,C,Vadodara,Member,Male,Health and beauty,44.85,5,11.21,235.46,3/3/2025,17:20,Credit card,224.25,11.21,5.1
+INV-00635,C,Ahmedabad,Normal,Male,Fashion accessories,69.37,3,10.41,218.52,1/29/2025,16:20,Cash,208.11,10.41,7.6
+INV-00636,B,Ahmedabad,Member,Male,Food and beverages,49.78,10,24.89,522.69,1/22/2025,19:50,Credit card,497.8,24.89,6.7
+INV-00637,C,Ahmedabad,Normal,Female,Sports and travel,68.34,7,23.92,502.3,3/6/2025,16:20,Credit card,478.38,23.92,6.2
+INV-00638,B,Gandhinagar,Member,Male,Food and beverages,15.53,6,4.66,97.84,1/29/2025,14:20,Credit card,93.18,4.66,7.3
+INV-00639,B,Rajkot,Normal,Female,Electronic accessories,83.24,1,4.16,87.4,2/17/2025,18:50,Ewallet,83.24,4.16,7.1
+INV-00640,B,Gandhinagar,Normal,Female,Fashion accessories,94.65,8,37.86,795.06,1/5/2025,14:50,Ewallet,757.2,37.86,5.9
+INV-00641,B,Rajkot,Normal,Male,Food and beverages,68.39,2,6.84,143.62,6/12/2025,11:40,Cash,136.78,6.84,5.9
+INV-00642,A,Gandhinagar,Member,Female,Home and lifestyle,95.91,5,23.98,503.53,4/11/2025,12:30,Credit card,479.55,23.98,5
+INV-00643,A,Gandhinagar,Member,Male,Sports and travel,23.63,9,10.63,223.3,3/12/2025,13:50,Cash,212.67,10.63,7.4
+INV-00644,C,Vadodara,Member,Male,Fashion accessories,52.97,8,21.19,444.95,6/23/2025,14:10,Credit card,423.76,21.19,5.4
+INV-00645,A,Gandhinagar,Normal,Male,Electronic accessories,64.16,2,6.42,134.74,6/12/2025,12:20,Ewallet,128.32,6.42,7
+INV-00646,A,Surat,Member,Female,Food and beverages,62.36,9,28.06,589.3,6/22/2025,16:30,Ewallet,561.24,28.06,7.8
+INV-00647,C,Vadodara,Member,Male,Sports and travel,46.13,5,11.53,242.18,5/21/2025,14:00,Credit card,230.65,11.53,7.3
+INV-00648,C,Gandhinagar,Member,Female,Fashion accessories,40.43,10,20.22,424.52,5/18/2025,14:40,Credit card,404.3,20.22,6.1
+INV-00649,C,Ahmedabad,Member,Male,Sports and travel,21.41,6,6.42,134.88,3/7/2025,15:30,Ewallet,128.46,6.42,8.2
+INV-00650,A,Surat,Normal,Male,Electronic accessories,45.26,3,6.79,142.57,3/13/2025,16:50,Ewallet,135.78,6.79,6.5
+INV-00651,A,Surat,Member,Male,Food and beverages,24.64,3,3.7,77.62,1/25/2025,19:20,Cash,73.92,3.7,5.3
+INV-00652,C,Surat,Normal,Female,Sports and travel,76.09,10,38.04,798.94,6/21/2025,19:20,Ewallet,760.9,38.04,6.6
+INV-00653,B,Vadodara,Member,Female,Sports and travel,28.79,8,11.52,241.84,3/1/2025,17:20,Credit card,230.32,11.52,7.8
+INV-00654,C,Gandhinagar,Member,Female,Health and beauty,15.27,10,7.64,160.34,6/24/2025,18:30,Cash,152.7,7.64,6.1
+INV-00655,B,Gandhinagar,Member,Male,Sports and travel,59.71,10,29.86,626.96,2/9/2025,20:20,Credit card,597.1,29.86,8.1
+INV-00656,B,Ahmedabad,Member,Male,Health and beauty,63.57,2,6.36,133.5,1/7/2025,13:50,Cash,127.14,6.36,6
+INV-00657,C,Ahmedabad,Member,Female,Food and beverages,88.47,2,8.85,185.79,6/23/2025,14:30,Credit card,176.94,8.85,6.2
+INV-00658,C,Surat,Normal,Female,Fashion accessories,61.93,5,15.48,325.13,5/31/2025,14:20,Ewallet,309.65,15.48,5.6
+INV-00659,C,Ahmedabad,Member,Female,Fashion accessories,41.09,6,12.33,258.87,2/15/2025,17:00,Credit card,246.54,12.33,7.9
+INV-00660,A,Vadodara,Normal,Female,Food and beverages,82.27,2,8.23,172.77,3/27/2025,18:00,Cash,164.54,8.23,6.9
+INV-00661,B,Gandhinagar,Member,Female,Food and beverages,58.63,5,14.66,307.81,5/21/2025,16:10,Credit card,293.15,14.66,5.7
+INV-00662,A,Surat,Member,Female,Home and lifestyle,17.14,7,6,125.98,1/21/2025,14:20,Cash,119.98,6,6.5
+INV-00663,A,Ahmedabad,Normal,Male,Food and beverages,60.93,10,30.46,639.76,1/1/2025,12:20,Credit card,609.3,30.46,4
+INV-00664,C,Vadodara,Member,Female,Sports and travel,91.72,10,45.86,963.06,5/3/2025,10:30,Ewallet,917.2,45.86,8
+INV-00665,A,Vadodara,Member,Male,Fashion accessories,45.67,8,18.27,383.63,5/27/2025,20:30,Ewallet,365.36,18.27,6.8
+INV-00666,C,Ahmedabad,Member,Male,Electronic accessories,36.67,7,12.83,269.52,5/5/2025,18:20,Credit card,256.69,12.83,4
+INV-00667,B,Gandhinagar,Member,Female,Fashion accessories,22.91,8,9.16,192.44,2/2/2025,14:10,Credit card,183.28,9.16,5.1
+INV-00668,C,Ahmedabad,Normal,Female,Health and beauty,23.63,9,10.63,223.3,1/4/2025,18:20,Credit card,212.67,10.63,6.5
+INV-00669,A,Surat,Member,Male,Fashion accessories,48.95,5,12.24,256.99,1/3/2025,19:50,Cash,244.75,12.24,5.3
+INV-00670,A,Ahmedabad,Normal,Female,Home and lifestyle,63.61,5,15.9,333.95,4/1/2025,13:30,Credit card,318.05,15.9,8
+INV-00671,C,Vadodara,Normal,Female,Food and beverages,17.26,10,8.63,181.23,2/21/2025,14:20,Credit card,172.6,8.63,7.5
+INV-00672,C,Ahmedabad,Member,Male,Food and beverages,94.56,4,18.91,397.15,1/28/2025,13:30,Cash,378.24,18.91,7.5
+INV-00673,A,Gandhinagar,Normal,Male,Fashion accessories,77.96,9,35.08,736.72,3/11/2025,11:20,Ewallet,701.64,35.08,4
+INV-00674,B,Rajkot,Member,Male,Electronic accessories,62.8,,15.7,329.7,2/26/2025,10:40,Credit card,314,15.7,6.3
+INV-00675,B,Ahmedabad,Normal,Female,Electronic accessories,84.56,2,8.46,177.58,4/18/2025,17:30,Credit card,169.12,8.46,6.1
+INV-00676,C,Gandhinagar,Member,Male,Home and lifestyle,17.22,10,8.61,180.81,5/24/2025,13:10,Ewallet,172.2,8.61,5.8
+INV-00677,B,Gandhinagar,Normal,Female,Health and beauty,52.92,8,21.17,444.53,1/24/2025,14:40,Ewallet,423.36,21.17,6.5
+INV-00678,A,Vadodara,Member,Male,Fashion accessories,66.71,7,23.35,490.32,6/18/2025,15:50,Cash,466.97,23.35,5.5
+INV-00679,C,Gandhinagar,Member,Male,Food and beverages,84.58,8,33.83,710.47,3/18/2025,17:20,Credit card,676.64,33.83,7.3
+INV-00680,A,Gandhinagar,Normal,Male,Fashion accessories,80.51,3,12.08,253.61,6/24/2025,20:50,Credit card,241.53,12.08,8
+INV-00681,A,Gandhinagar,Normal,Female,Home and lifestyle,34.94,4,6.99,146.75,3/17/2025,17:30,Cash,139.76,6.99,7.9
+INV-00682,B,Gandhinagar,Member,Female,Sports and travel,94.68,5,23.67,497.07,3/10/2025,16:40,Ewallet,473.4,23.67,6.8
+INV-00683,C,Surat,Member,Male,Sports and travel,21.19,6,6.36,133.5,4/11/2025,13:50,Cash,127.14,6.36,9.6
+INV-00684,C,Surat,Normal,Male,Home and lifestyle,88.76,1,4.44,93.2,6/8/2025,15:10,Ewallet,88.76,4.44,8.5
+INV-00685,B,Vadodara,Normal,Male,Food and beverages,97.38,4,19.48,409,4/2/2025,13:30,Cash,389.52,19.48,6.9
+INV-00686,A,Ahmedabad,Normal,Female,Home and lifestyle,25.94,10,12.97,272.37,4/2/2025,16:40,Ewallet,259.4,12.97,6.4
+INV-00687,A,Gandhinagar,Normal,Male,Food and beverages,74.99,5,18.75,393.7,1/30/2025,20:50,Cash,374.95,18.75,8.7
+INV-00688,A,Ahmedabad,Normal,Female,Electronic accessories,13.63,,4.77,100.18,1/18/2025,10:40,Ewallet,95.41,4.77,8.3
+INV-00689,A,Ahmedabad,Normal,Male,Home and lifestyle,46.49,5,11.62,244.07,2/13/2025,14:40,Ewallet,232.45,11.62,5.2
+INV-00690,C,Vadodara,Member,Male,Food and beverages,56.47,1,2.82,59.29,6/4/2025,19:50,Ewallet,56.47,2.82,8.4
+INV-00691,C,Gandhinagar,Member,Male,Home and lifestyle,62.26,7,21.79,457.61,4/9/2025,19:00,Ewallet,435.82,21.79,6.8
+INV-00692,B,Gandhinagar,Normal,Male,Home and lifestyle,94.23,8,37.69,791.53,6/3/2025,13:20,Ewallet,753.84,37.69,5.9
+INV-00693,B,Rajkot,Normal,Male,Food and beverages,70.5,7,24.68,518.18,5/1/2025,20:30,Credit card,493.5,24.68,4.4
+INV-00694,C,Ahmedabad,Member,Male,Food and beverages,53.32,4,10.66,223.94,4/25/2025,16:30,Ewallet,213.28,10.66,6.7
+INV-00695,C,Ahmedabad,Member,Female,Health and beauty,82.87,8,33.15,696.11,3/1/2025,18:30,Credit card,662.96,33.15,7
+INV-00696,A,Surat,Normal,Male,Home and lifestyle,95.55,5,23.89,501.64,5/26/2025,14:40,Ewallet,477.75,23.89,9.1
+INV-00697,A,Rajkot,Member,Female,Sports and travel,11.99,10,6,125.9,2/25/2025,13:50,Credit card,119.9,6,8.2
+INV-00698,B,Surat,Member,Male,Home and lifestyle,98.43,9,44.29,930.16,1/31/2025,18:20,Credit card,885.87,44.29,6.2
+INV-00699,C,Surat,Member,Male,Home and lifestyle,17.75,10,8.88,186.38,4/11/2025,14:10,Cash,177.5,8.88,7.5
+INV-00700,B,Surat,Member,Female,Food and beverages,83.29,5,20.82,437.27,2/28/2025,18:30,Ewallet,416.45,20.82,8.1
+INV-00701,C,Vadodara,Member,Male,Home and lifestyle,35.23,1,1.76,36.99,5/4/2025,17:50,Cash,35.23,1.76,7.1
+INV-00702,A,Vadodara,Member,Female,Fashion accessories,21.9,9,9.86,206.96,5/10/2025,13:20,Cash,197.1,9.86,6.2
+INV-00703,B,Surat,Member,Female,Home and lifestyle,49.59,5,12.4,260.35,4/7/2025,20:20,Ewallet,247.95,12.4,6.3
+INV-00704,B,Rajkot,Normal,Male,Fashion accessories,,6,20.39,428.15,6/16/2025,20:00,Cash,407.76,20.39,7.5
+INV-00705,C,Ahmedabad,Member,Female,Sports and travel,44.29,4,8.86,186.02,4/17/2025,16:50,Ewallet,177.16,8.86,7.5
+INV-00706,A,Rajkot,Normal,Female,Food and beverages,14.91,6,4.47,93.93,1/18/2025,14:30,Cash,89.46,4.47,6.6
+INV-00707,B,Gandhinagar,Normal,Male,Home and lifestyle,63.95,8,25.58,537.18,5/25/2025,19:40,Ewallet,511.6,25.58,4
+INV-00708,A,Vadodara,Member,Female,Fashion accessories,91.22,3,13.68,287.34,6/16/2025,13:20,Ewallet,273.66,13.68,5.3
+INV-00709,B,Ahmedabad,Normal,Male,Fashion accessories,44.49,5,11.12,233.57,3/12/2025,14:20,Ewallet,222.45,11.12,7.8
+INV-00710,A,Ahmedabad,Member,Male,Fashion accessories,29.47,2,2.95,61.89,4/16/2025,14:10,Credit card,58.94,2.95,4.2
+INV-00711,C,Gandhinagar,Normal,Male,Electronic accessories,49.83,2,4.98,104.64,2/23/2025,20:00,Cash,99.66,4.98,8.5
+INV-00712,B,Gandhinagar,Member,Male,Health and beauty,14.35,7,5.02,105.47,4/4/2025,18:20,Credit card,100.45,5.02,8.3
+INV-00713,B,Surat,Normal,Female,Sports and travel,83.84,10,41.92,880.32,3/17/2025,18:20,Cash,838.4,41.92,7.1
+INV-00714,A,Vadodara,Normal,Male,Home and lifestyle,84.37,10,42.18,885.88,2/4/2025,15:40,Cash,843.7,42.18,7.8
+INV-00715,A,Vadodara,Member,Male,Electronic accessories,62.92,10,31.46,660.66,1/11/2025,13:40,Cash,629.2,31.46,7.7
+INV-00716,B,Rajkot,Member,Female,Home and lifestyle,41.78,6,12.53,263.21,3/2/2025,11:10,Credit card,250.68,12.53,6.8
+INV-00717,C,Surat,Normal,Male,Home and lifestyle,81.98,4,16.4,344.32,2/13/2025,12:50,Cash,327.92,16.4,5.2
+INV-00718,A,Surat,Normal,Male,Food and beverages,59.92,5,14.98,314.58,5/1/2025,11:10,Credit card,299.6,14.98,8.3
+INV-00719,A,Surat,Member,Female,Food and beverages,84.33,1,4.22,88.55,3/9/2025,14:10,Ewallet,84.33,4.22,8.8
+INV-00720,A,Surat,Normal,Female,Food and beverages,66.83,7,23.39,491.2,1/25/2025,15:40,Cash,467.81,23.39,5.4
+INV-00721,B,Vadodara,Member,Female,Electronic accessories,80.6,8,32.24,677.04,6/25/2025,20:50,Cash,644.8,32.24,5.2
+INV-00722,B,Vadodara,Normal,Female,Home and lifestyle,63.87,,28.74,603.57,6/9/2025,14:40,Ewallet,574.83,28.74,6.8
+INV-00723,B,Surat,Member,Female,Health and beauty,47.27,8,18.91,397.07,3/25/2025,11:00,Ewallet,378.16,18.91,6.2
+INV-00724,B,Rajkot,Normal,Female,Sports and travel,96.22,5,24.06,505.16,4/24/2025,14:30,Cash,481.1,24.06,7.2
+INV-00725,C,Ahmedabad,Member,Female,Food and beverages,58.7,3,8.8,184.9,5/12/2025,18:30,Ewallet,176.1,8.8,8.6
+INV-00726,C,Ahmedabad,Member,Male,Food and beverages,64.46,10,32.23,676.83,6/15/2025,13:00,Credit card,644.6,32.23,4.1
+INV-00727,B,Rajkot,Member,Female,Home and lifestyle,29.84,9,13.43,281.99,6/24/2025,19:30,Credit card,268.56,13.43,9.1
+INV-00728,C,Surat,Member,Female,Home and lifestyle,66.31,6,19.89,417.75,1/1/2025,11:50,Cash,397.86,19.89,6.5
+INV-00729,A,Vadodara,Member,Female,Electronic accessories,61.44,5,15.36,322.56,5/11/2025,12:40,Credit card,307.2,15.36,7.7
+INV-00730,A,Ahmedabad,Member,Male,Electronic accessories,26.64,3,4,83.92,3/27/2025,12:30,Credit card,79.92,4,7.8
+INV-00731,A,Gandhinagar,Normal,Male,Food and beverages,15.36,6,4.61,96.77,3/3/2025,18:50,Cash,92.16,4.61,8
+INV-00732,B,Gandhinagar,Member,Female,Home and lifestyle,64.39,3,9.66,202.83,3/5/2025,13:40,Ewallet,193.17,9.66,7.1
+INV-00733,A,Rajkot,Member,Female,Health and beauty,78.73,10,39.36,826.66,5/25/2025,10:50,Cash,787.3,39.36,7.4
+INV-00734,C,Surat,Member,Female,Sports and travel,57.11,6,17.13,359.79,5/6/2025,10:00,Credit card,342.66,17.13,7.4
+INV-00735,B,Ahmedabad,Member,Male,Home and lifestyle,30.41,4,6.08,127.72,4/15/2025,16:10,Cash,121.64,6.08,6.2
+INV-00736,C,Surat,Member,Male,Home and lifestyle,69.99,2,7,146.98,3/3/2025,16:00,Cash,139.98,7,4.7
+INV-00737,A,Ahmedabad,Member,Female,Fashion accessories,17.21,8,6.88,144.56,2/4/2025,11:30,Credit card,137.68,6.88,5.4
+INV-00738,A,Rajkot,Member,Male,Electronic accessories,49.77,4,9.95,209.03,1/13/2025,18:40,Credit card,199.08,9.95,6.9
+INV-00739,A,Rajkot,Member,Female,Sports and travel,24.7,9,11.12,233.42,6/12/2025,18:50,Cash,222.3,11.12,6
+INV-00740,B,Gandhinagar,Member,Male,Food and beverages,26.6,7,9.31,195.51,2/12/2025,14:30,Credit card,186.2,9.31,6
+INV-00741,C,Surat,Member,Male,Home and lifestyle,28.21,2,2.82,59.24,5/10/2025,12:30,Credit card,56.42,2.82,9.3
+INV-00742,B,Gandhinagar,Member,Female,Food and beverages,44.8,4,8.96,188.16,4/21/2025,12:10,Credit card,179.2,8.96,8.1
+INV-00743,B,Surat,Member,Female,Home and lifestyle,14.6,5,3.65,76.65,5/8/2025,12:30,Credit card,73,3.65,6.7
+INV-00744,A,Gandhinagar,Normal,Female,Food and beverages,45.8,3,6.87,144.27,2/20/2025,15:10,Credit card,137.4,6.87,7.9
+INV-00745,B,Vadodara,Member,Female,Sports and travel,56.05,9,25.22,529.67,5/24/2025,13:40,Credit card,504.45,25.22,6.5
+INV-00746,B,Vadodara,Normal,Male,Electronic accessories,53.5,5,13.38,280.88,5/26/2025,17:40,Ewallet,267.5,13.38,7.1
+INV-00747,A,Vadodara,Member,Male,Sports and travel,44.45,2,4.44,93.34,5/15/2025,20:50,Cash,88.9,4.44,7.6
+INV-00748,B,Vadodara,Normal,Male,Fashion accessories,85.52,3,12.83,269.39,2/14/2025,20:10,Credit card,256.56,12.83,6.5
+INV-00749,A,Ahmedabad,Normal,Female,Health and beauty,23.08,9,10.39,218.11,6/13/2025,20:00,Cash,207.72,10.39,6.1
+INV-00750,A,Vadodara,Member,Male,Electronic accessories,55.51,7,19.43,408,6/18/2025,14:40,Ewallet,388.57,19.43,8.6
+INV-00751,A,Rajkot,Normal,Female,Sports and travel,15.58,2,1.56,32.72,2/11/2025,10:50,Credit card,31.16,1.56,7.8
+INV-00752,A,Rajkot,Member,Male,Fashion accessories,16.4,9,7.38,154.98,5/15/2025,18:00,Cash,147.6,7.38,4.1
+INV-00753,B,Ahmedabad,Member,Female,Health and beauty,61.65,4,12.33,258.93,1/15/2025,10:40,Credit card,246.6,12.33,6.1
+INV-00754,A,Vadodara,Normal,Female,Fashion accessories,60.94,9,27.42,575.88,3/1/2025,15:40,Credit card,548.46,27.42,6
+INV-00755,A,Vadodara,Normal,Male,Home and lifestyle,89.02,2,8.9,186.94,2/9/2025,10:50,Credit card,178.04,8.9,6.2
+INV-00756,B,Vadodara,Member,Female,Home and lifestyle,60.21,10,30.11,632.21,6/14/2025,12:50,Credit card,602.1,30.11,8.1
+INV-00757,B,Gandhinagar,Member,Female,Food and beverages,96.38,4,19.28,404.8,4/22/2025,19:20,Credit card,385.52,19.28,7
+INV-00758,C,Surat,Member,Male,Electronic accessories,14.38,5,3.6,75.5,3/18/2025,14:30,Credit card,71.9,3.6,5.2
+INV-00759,B,Gandhinagar,Member,Female,Home and lifestyle,18.82,2,1.88,39.52,4/15/2025,19:30,Credit card,37.64,1.88,6.5
+INV-00760,B,Surat,Normal,Female,Fashion accessories,13.97,10,6.98,146.68,4/17/2025,16:00,Ewallet,139.7,6.98,7.7
+INV-00761,C,Vadodara,Member,Female,Electronic accessories,26.67,1,1.33,28,5/2/2025,19:30,Ewallet,26.67,1.33,6.7
+INV-00762,B,Vadodara,Member,Male,Home and lifestyle,58.71,7,20.55,431.52,3/21/2025,17:00,Credit card,410.97,20.55,6.2
+INV-00763,B,Gandhinagar,Member,Male,Food and beverages,68.1,10,34.05,715.05,5/5/2025,18:40,Credit card,681,34.05,7.4
+INV-00764,B,Gandhinagar,Member,Female,Sports and travel,14.1,1,0.7,14.8,6/21/2025,15:20,Ewallet,14.1,0.7,9.1
+INV-00765,B,Surat,Member,Male,Food and beverages,95.14,8,38.06,799.18,5/14/2025,20:20,Ewallet,761.12,38.06,7.6
+INV-00766,C,Rajkot,Normal,Female,Health and beauty,85.79,3,12.87,270.24,2/1/2025,18:40,Ewallet,257.37,12.87,8.7
+INV-00767,B,Surat,Normal,Female,Home and lifestyle,36.7,10,18.35,385.35,4/18/2025,17:50,Credit card,367,18.35,6.2
+INV-00768,B,Gandhinagar,Normal,Female,Health and beauty,16.95,6,5.09,106.79,4/24/2025,18:10,Cash,101.7,5.09,7
+INV-00769,C,Gandhinagar,Member,Female,Health and beauty,25.29,7,8.85,185.88,5/26/2025,19:10,Cash,177.03,8.85,7
+INV-00770,A,Ahmedabad,Normal,Female,Fashion accessories,21.42,10,10.71,224.91,3/9/2025,13:30,Cash,214.2,10.71,7.2
+INV-00771,C,Gandhinagar,Normal,Male,Electronic accessories,21.1,1,1.06,22.16,5/7/2025,18:50,Cash,21.1,1.06,7.6
+INV-00772,A,Ahmedabad,Normal,Female,Fashion accessories,56.67,6,17,357.02,5/15/2025,16:00,Credit card,340.02,17,5.8
+INV-00773,C,Rajkot,Member,Male,Home and lifestyle,32.13,7,11.25,236.16,4/24/2025,14:20,Cash,224.91,11.25,7.8
+INV-00774,C,Surat,Member,Male,Health and beauty,42.23,6,12.67,266.05,1/8/2025,14:30,Ewallet,253.38,12.67,4.9
+INV-00775,B,Surat,Member,Female,Sports and travel,99.06,4,19.81,416.05,3/5/2025,10:40,Ewallet,396.24,19.81,5.3
+INV-00776,A,Ahmedabad,Member,Female,Health and beauty,71.59,1,3.58,75.17,5/15/2025,11:50,Cash,71.59,3.58,9.8
+INV-00777,B,Surat,Member,Male,Sports and travel,95.41,9,42.93,901.62,2/10/2025,19:20,Ewallet,858.69,42.93,6.3
+INV-00778,A,Gandhinagar,Member,Male,Fashion accessories,22.83,4,4.57,95.89,2/9/2025,12:00,Credit card,91.32,4.57,7.9
+INV-00779,C,Vadodara,Member,Male,Fashion accessories,44.39,7,15.54,326.27,1/3/2025,17:00,Cash,310.73,15.54,9.2
+INV-00780,C,Ahmedabad,Normal,Female,Electronic accessories,59.93,7,20.98,440.49,5/25/2025,15:10,Cash,419.51,20.98,4
+INV-00781,A,Surat,Member,Male,Health and beauty,16.91,2,1.69,35.51,4/20/2025,19:30,Credit card,33.82,1.69,8.5
+INV-00782,B,Ahmedabad,Member,Female,Food and beverages,10.38,1,0.52,10.9,4/24/2025,20:40,Ewallet,10.38,0.52,7.8
+INV-00783,B,Ahmedabad,Normal,Female,Fashion accessories,70.34,8,28.14,590.86,4/22/2025,14:20,Credit card,562.72,28.14,9.1
+INV-00784,B,Vadodara,Normal,Female,Fashion accessories,67.76,8,27.1,569.18,6/29/2025,10:00,Credit card,542.08,27.1,5.5
+INV-00785,B,Gandhinagar,Normal,Male,Electronic accessories,46.97,7,16.44,345.23,5/30/2025,20:20,Ewallet,328.79,16.44,8.9
+INV-00786,C,Ahmedabad,Normal,Female,Sports and travel,54.07,8,21.63,454.19,1/4/2025,18:40,Credit card,432.56,21.63,6
+INV-00787,C,Surat,Member,Female,Electronic accessories,47.39,3,7.11,149.28,5/14/2025,12:20,Ewallet,142.17,7.11,8.4
+INV-00788,C,Rajkot,Normal,Female,Health and beauty,12.16,2,1.22,25.54,6/15/2025,12:30,Ewallet,24.32,1.22,7
+INV-00789,C,Ahmedabad,Member,Female,Home and lifestyle,40.18,7,14.06,295.32,1/26/2025,11:10,Credit card,281.26,14.06,8
+INV-00790,C,Ahmedabad,Member,Female,Home and lifestyle,25.94,8,10.38,217.9,5/19/2025,13:20,Ewallet,207.52,10.38,7.1
+INV-00791,B,Vadodara,Member,Male,Sports and travel,18.86,1,0.94,19.8,1/17/2025,11:50,Credit card,18.86,0.94,4.6
+INV-00792,B,Gandhinagar,Member,Female,Fashion accessories,96.1,10,48.05,1009.05,4/2/2025,18:10,Ewallet,961,48.05,4
+INV-00793,B,Rajkot,Member,Female,Sports and travel,63.94,9,28.77,604.23,1/31/2025,19:40,Cash,575.46,28.77,7.3
+INV-00794,B,Surat,Normal,Male,Fashion accessories,75.58,4,15.12,317.44,6/12/2025,16:10,Ewallet,302.32,15.12,6.7
+INV-00795,C,Rajkot,Normal,Female,Fashion accessories,38.38,4,7.68,161.2,5/24/2025,17:20,Ewallet,153.52,7.68,7.5
+INV-00796,C,Surat,Member,Male,Home and lifestyle,45.38,3,6.81,142.95,4/17/2025,12:20,Credit card,136.14,6.81,6.7
+INV-00797,C,Gandhinagar,Member,Female,Sports and travel,31.32,6,9.4,197.32,5/26/2025,15:50,Ewallet,187.92,9.4,9.6
+INV-00798,A,Surat,Normal,Male,Electronic accessories,18.73,1,0.94,19.67,4/21/2025,19:00,Cash,18.73,0.94,7.3
+INV-00799,B,Vadodara,Normal,Male,Fashion accessories,26.11,6,7.83,164.49,4/11/2025,15:50,Cash,156.66,7.83,6.4
+INV-00800,B,Vadodara,Member,Female,Food and beverages,81.78,2,8.18,171.74,4/22/2025,10:20,Ewallet,163.56,8.18,7.4
+INV-00801,C,Vadodara,Normal,Female,Food and beverages,70.98,9,31.94,670.76,3/3/2025,15:10,Ewallet,638.82,31.94,6.4
+INV-00802,B,Vadodara,Member,Female,Electronic accessories,59.22,2,5.92,124.36,4/22/2025,12:50,Cash,118.44,5.92,7.1
+INV-00803,B,Rajkot,Member,Male,Food and beverages,52.76,7,18.47,387.79,6/4/2025,20:50,Credit card,369.32,18.47,5.4
+INV-00804,C,Gandhinagar,Normal,Male,Health and beauty,93.02,1,4.65,97.67,6/12/2025,12:00,Cash,93.02,4.65,7
+INV-00805,A,Surat,Member,Male,Fashion accessories,16.55,7,5.79,121.64,4/26/2025,12:20,Cash,115.85,5.79,6.4
+INV-00806,A,Surat,Member,Female,Electronic accessories,35.25,5,8.81,185.06,6/22/2025,19:20,Ewallet,176.25,8.81,5.5
+INV-00807,A,Vadodara,Normal,Male,Sports and travel,41.49,8,16.6,348.52,2/4/2025,20:40,Ewallet,331.92,16.6,9.6
+INV-00808,C,Vadodara,Normal,Male,Fashion accessories,80.42,4,16.08,337.76,1/28/2025,20:00,Cash,321.68,16.08,5.6
+INV-00809,B,Ahmedabad,Member,Female,Electronic accessories,99.33,10,49.66,1042.96,4/13/2025,19:40,Credit card,993.3,49.66,
+INV-00810,C,Gandhinagar,Member,Male,Home and lifestyle,31.66,7,11.08,232.7,5/5/2025,20:40,Cash,221.62,11.08,6
+INV-00811,C,Rajkot,Member,Male,Sports and travel,88.69,6,26.61,558.75,4/12/2025,17:40,Cash,532.14,26.61,7.4
+INV-00812,B,Surat,Normal,Female,Home and lifestyle,84.76,5,21.19,444.99,5/17/2025,14:30,Credit card,423.8,21.19,5.3
+INV-00813,A,Ahmedabad,Member,Male,Fashion accessories,,4,6.04,126.92,5/23/2025,13:40,Cash,120.88,6.04,8.1
+INV-00814,A,Ahmedabad,Member,Female,Sports and travel,45.94,7,16.08,337.66,1/21/2025,18:50,Cash,321.58,16.08,9.6
+INV-00815,C,Surat,Normal,Female,Food and beverages,46.87,5,11.72,246.07,2/21/2025,18:10,Ewallet,234.35,11.72,5.9
+INV-00816,A,Rajkot,Member,Female,Electronic accessories,98.04,5,24.51,514.71,6/12/2025,10:50,Credit card,490.2,24.51,8.6
+INV-00817,C,Ahmedabad,Member,Female,Fashion accessories,26.28,,1.31,27.59,4/7/2025,11:50,Ewallet,26.28,1.31,6.5
+INV-00818,C,Ahmedabad,Member,Female,Health and beauty,81.92,2,8.19,172.03,2/20/2025,17:20,Ewallet,163.84,8.19,9
+INV-00819,B,Gandhinagar,Normal,Male,Sports and travel,40.08,5,10.02,210.42,3/24/2025,14:30,Credit card,200.4,10.02,9.8
+INV-00820,B,Rajkot,Member,Male,Sports and travel,75.78,3,11.37,238.71,2/24/2025,16:40,Credit card,227.34,11.37,6.7
+INV-00821,B,Ahmedabad,Member,Female,Fashion accessories,47.8,2,4.78,100.38,3/18/2025,10:20,Cash,95.6,4.78,5
+INV-00822,C,Rajkot,Normal,Female,Fashion accessories,62.05,4,12.41,260.61,5/7/2025,19:00,Ewallet,248.2,12.41,8.2
+INV-00823,B,Surat,Member,Male,Home and lifestyle,84.94,4,16.99,356.75,6/21/2025,14:00,Credit card,339.76,16.99,7.3
+INV-00824,A,Vadodara,Member,Female,Food and beverages,,4,16.47,345.95,4/3/2025,20:20,Ewallet,329.48,16.47,7.7
+INV-00825,A,Ahmedabad,Member,Female,Home and lifestyle,87.98,4,17.6,369.52,3/29/2025,12:10,Ewallet,351.92,17.6,6.6
+INV-00826,C,Gandhinagar,Member,Female,Home and lifestyle,15.37,3,2.31,48.42,3/21/2025,19:20,Credit card,46.11,2.31,5.9
+INV-00827,C,Surat,Member,Male,Food and beverages,72.28,7,25.3,531.26,6/2/2025,11:20,Cash,505.96,25.3,8.5
+INV-00828,B,Rajkot,Member,Male,Health and beauty,22.6,9,10.17,213.57,4/2/2025,11:30,Ewallet,203.4,10.17,7.4
+INV-00829,C,Surat,Member,Female,Home and lifestyle,47.42,5,11.86,248.96,2/16/2025,18:00,Credit card,237.1,11.86,5.1
+INV-00830,C,Ahmedabad,Member,Female,Home and lifestyle,59.37,4,11.87,249.35,2/7/2025,13:00,Cash,237.48,11.87,7.9
+INV-00831,A,Rajkot,Normal,Male,Sports and travel,46.25,2,4.62,97.12,5/19/2025,13:40,Ewallet,92.5,4.62,7.6
+INV-00832,A,Vadodara,Normal,Male,Food and beverages,56.77,2,5.68,119.22,1/15/2025,16:50,Credit card,113.54,5.68,6.6
+INV-00833,B,Surat,Normal,Female,Electronic accessories,99.69,5,24.92,523.37,1/1/2025,19:20,Ewallet,498.45,24.92,9.1
+INV-00834,C,Ahmedabad,Normal,Female,Health and beauty,22.17,7,7.76,162.95,5/15/2025,19:20,Credit card,155.19,7.76,6.2
+INV-00835,C,Gandhinagar,Member,Male,Health and beauty,70.79,10,35.4,743.3,1/1/2025,11:10,Credit card,707.9,35.4,6.8
+INV-00836,A,Rajkot,Normal,Male,Food and beverages,45.64,10,22.82,479.22,2/18/2025,12:00,Ewallet,456.4,22.82,8
+INV-00837,C,Surat,Member,Male,Fashion accessories,21.97,9,9.89,207.62,4/6/2025,12:10,Ewallet,197.73,9.89,7.1
+INV-00838,A,Surat,Normal,Female,Fashion accessories,24.29,7,8.5,178.53,6/6/2025,15:30,Credit card,170.03,8.5,5.2
+INV-00839,B,Vadodara,Normal,Male,Sports and travel,95.43,5,23.86,501.01,1/26/2025,12:40,Cash,477.15,23.86,7.2
+INV-00840,A,Vadodara,Normal,Female,Sports and travel,89.16,10,44.58,936.18,3/28/2025,20:10,Ewallet,891.6,44.58,6.5
+INV-00841,C,Gandhinagar,Normal,Male,Food and beverages,91.63,10,45.82,962.12,6/22/2025,14:00,Credit card,916.3,45.82,8.1
+INV-00842,B,Gandhinagar,Member,Male,Sports and travel,99.24,10,49.62,1042.02,4/3/2025,13:30,Credit card,992.4,49.62,7.2
+INV-00843,A,Ahmedabad,Member,Male,Health and beauty,28.75,6,8.62,181.12,4/12/2025,12:20,Cash,172.5,8.62,7.1
+INV-00844,A,Ahmedabad,Member,Male,Health and beauty,41.99,3,6.3,132.27,3/12/2025,17:30,Cash,125.97,6.3,5.6
+INV-00845,B,Gandhinagar,Member,Female,Electronic accessories,70.23,5,17.56,368.71,5/20/2025,19:50,Cash,351.15,17.56,6.7
+INV-00846,B,Gandhinagar,Member,Female,Fashion accessories,53.54,8,21.42,449.74,4/5/2025,12:10,Ewallet,428.32,21.42,8.3
+INV-00847,A,Rajkot,Normal,Male,Food and beverages,47.66,1,2.38,50.04,6/9/2025,15:00,Credit card,47.66,2.38,6
+INV-00848,C,Vadodara,Normal,Female,Home and lifestyle,42.2,1,2.11,44.31,4/28/2025,16:10,Credit card,42.2,2.11,
+INV-00849,A,Ahmedabad,Member,Male,Fashion accessories,63.44,7,22.2,466.28,5/28/2025,16:20,Credit card,444.08,22.2,5.8
+INV-00850,B,Vadodara,Normal,Male,Home and lifestyle,61.8,5,15.45,324.45,4/29/2025,11:20,Cash,309,15.45,5.5
+INV-00851,A,Vadodara,Normal,Male,Electronic accessories,24.53,5,6.13,128.78,2/20/2025,12:00,Credit card,122.65,6.13,
+INV-00852,B,Gandhinagar,Normal,Male,Electronic accessories,52.46,1,2.62,55.08,3/22/2025,19:50,Ewallet,52.46,2.62,7.2
+INV-00853,B,Rajkot,Normal,Female,Sports and travel,59.81,9,26.91,565.2,2/5/2025,19:40,Cash,538.29,26.91,9.6
+INV-00854,C,Surat,Member,Male,Electronic accessories,61.33,1,3.07,64.4,3/8/2025,13:30,Cash,61.33,3.07,6.4
+INV-00855,B,Rajkot,Normal,Male,Electronic accessories,28.91,5,7.23,151.78,5/9/2025,16:30,Cash,144.55,7.23,6.9
+INV-00856,B,Rajkot,Normal,Female,Home and lifestyle,76.8,10,38.4,806.4,4/24/2025,11:20,Cash,768,38.4,5.4
+INV-00857,C,Vadodara,Member,Male,Sports and travel,12.27,9,5.52,115.95,6/4/2025,12:10,Ewallet,110.43,5.52,7.8
+INV-00858,B,Rajkot,Member,Male,Electronic accessories,41.93,4,8.39,176.11,4/21/2025,16:10,Credit card,167.72,8.39,7.5
+INV-00859,C,Ahmedabad,Normal,Male,Fashion accessories,80.22,8,32.09,673.85,6/17/2025,16:50,Ewallet,641.76,32.09,8.9
+INV-00860,C,Vadodara,Member,Female,Electronic accessories,60.75,6,18.23,382.73,5/22/2025,19:40,Credit card,364.5,18.23,8.4
+INV-00861,B,Ahmedabad,Normal,Male,Sports and travel,33.5,3,5.03,105.53,4/10/2025,12:10,Ewallet,100.5,5.03,7.5
+INV-00862,B,Surat,Normal,Female,Food and beverages,72.55,4,14.51,304.71,4/19/2025,10:30,Cash,290.2,14.51,6.4
+INV-00863,A,Vadodara,Member,Male,Sports and travel,61.07,2,6.11,128.25,4/30/2025,12:10,Cash,122.14,6.11,7.3
+INV-00864,C,Surat,Member,Male,Home and lifestyle,81.66,1,4.08,85.74,3/20/2025,14:40,Ewallet,81.66,4.08,6.9
+INV-00865,A,Vadodara,Normal,Female,Food and beverages,76.15,8,30.46,639.66,5/14/2025,16:30,Ewallet,609.2,30.46,8.2
+INV-00866,B,Gandhinagar,Member,Male,Fashion accessories,64.91,1,3.25,68.16,6/10/2025,13:10,Credit card,64.91,3.25,8.1
+INV-00867,A,Rajkot,Member,Male,Health and beauty,53.94,1,2.7,56.64,1/19/2025,20:30,Ewallet,53.94,2.7,6.6
+INV-00868,C,Gandhinagar,Member,Female,Sports and travel,21.99,4,4.4,92.36,5/7/2025,20:20,Ewallet,87.96,4.4,5.1
+INV-00869,A,Surat,Member,Female,Home and lifestyle,33.52,10,16.76,351.96,1/29/2025,10:20,Credit card,335.2,16.76,8.7
+INV-00870,C,Rajkot,Normal,Female,Fashion accessories,47.72,10,23.86,501.06,1/24/2025,15:50,Credit card,477.2,23.86,7.8
+INV-00871,B,Vadodara,Member,Female,Food and beverages,63.94,6,19.18,402.82,5/31/2025,11:20,Credit card,383.64,19.18,6.6
+INV-00872,B,Rajkot,Normal,Female,Fashion accessories,56.23,9,25.3,531.37,1/10/2025,12:10,Ewallet,506.07,25.3,7.7
+INV-00873,C,Ahmedabad,Member,Male,Sports and travel,35.94,1,1.8,37.74,4/15/2025,13:40,Credit card,35.94,1.8,7.1
+INV-00874,B,Rajkot,Member,Female,Electronic accessories,10.58,7,3.7,77.76,6/18/2025,15:30,Cash,74.06,3.7,8.7
+INV-00875,B,Ahmedabad,Normal,Male,Sports and travel,54.66,10,27.33,573.93,6/26/2025,15:00,Cash,546.6,27.33,4.5
+INV-00876,B,Rajkot,Normal,Male,Health and beauty,35.71,5,8.93,187.48,5/25/2025,16:20,Cash,178.55,8.93,6.5
+INV-00877,B,Ahmedabad,Member,Male,Sports and travel,76.11,8,30.44,639.32,6/22/2025,14:20,Ewallet,608.88,30.44,9.1
+INV-00878,C,Surat,Member,Female,Food and beverages,12.16,7,4.26,89.38,6/7/2025,16:00,Cash,85.12,4.26,7.7
+INV-00879,A,Gandhinagar,Member,Female,Food and beverages,62.63,4,12.53,263.05,6/21/2025,11:00,Ewallet,250.52,12.53,9.3
+INV-00880,A,Vadodara,Member,Male,Sports and travel,94.73,4,18.95,397.87,2/24/2025,10:10,Ewallet,378.92,18.95,5.4
+INV-00881,B,Rajkot,Normal,Female,Food and beverages,25.7,6,7.71,161.91,5/27/2025,19:30,Cash,154.2,7.71,8.4
+INV-00882,A,Gandhinagar,Member,Female,Electronic accessories,52.45,6,15.74,330.44,6/6/2025,17:20,Credit card,314.7,15.74,8.3
+INV-00883,A,Vadodara,Member,Female,Fashion accessories,18.23,9,8.2,172.27,1/2/2025,10:40,Ewallet,164.07,8.2,4.8
+INV-00884,B,Vadodara,Member,Female,Sports and travel,66.31,5,16.58,348.13,6/13/2025,11:10,Cash,331.55,16.58,6.6
+INV-00885,B,Ahmedabad,Normal,Male,Electronic accessories,59.55,8,23.82,500.22,5/27/2025,20:10,Ewallet,476.4,23.82,6.9
+INV-00886,A,Surat,Normal,Male,Fashion accessories,46.66,5,11.66,244.96,5/15/2025,19:40,Credit card,233.3,11.66,4.9
+INV-00887,C,Surat,Member,Female,Fashion accessories,56.92,2,5.69,119.53,6/3/2025,15:40,Credit card,113.84,5.69,6.6
+INV-00888,B,Gandhinagar,Normal,Male,Electronic accessories,90.69,6,27.21,571.35,4/21/2025,10:50,Cash,544.14,27.21,8.1
+INV-00889,C,Surat,Member,Female,Home and lifestyle,27.67,9,12.45,261.48,2/7/2025,19:40,Ewallet,249.03,12.45,6.5
+INV-00890,A,Rajkot,Member,Female,Sports and travel,12.03,3,1.8,37.89,5/11/2025,12:00,Ewallet,36.09,1.8,7.3
+INV-00891,B,Surat,Normal,Male,Fashion accessories,87.55,1,4.38,91.93,4/12/2025,16:20,Ewallet,87.55,4.38,7.3
+INV-00892,C,Gandhinagar,Normal,Male,Fashion accessories,61.94,1,3.1,65.04,4/5/2025,17:50,Ewallet,61.94,3.1,7
+INV-00893,B,Surat,Normal,Male,Food and beverages,90.16,3,13.52,284,4/2/2025,13:00,Cash,270.48,13.52,6.1
+INV-00894,A,Rajkot,Member,Female,Fashion accessories,63.73,10,31.86,669.16,3/12/2025,12:50,Credit card,637.3,31.86,7.9
+INV-00895,C,Ahmedabad,Member,Male,Electronic accessories,82.91,5,20.73,435.28,6/20/2025,10:20,Cash,414.55,20.73,4.9
+INV-00896,A,Gandhinagar,Normal,Female,Fashion accessories,48.67,3,7.3,153.31,1/24/2025,18:50,Ewallet,146.01,7.3,7
+INV-00897,A,Ahmedabad,Member,Male,Home and lifestyle,77.49,9,34.87,732.28,6/16/2025,19:00,Ewallet,697.41,34.87,8.8
+INV-00898,B,Ahmedabad,Member,Male,Sports and travel,92.17,8,36.87,774.23,3/9/2025,15:30,Credit card,737.36,36.87,6.4
+INV-00899,C,Ahmedabad,Member,Female,Sports and travel,61.49,3,9.22,193.69,5/8/2025,15:20,Ewallet,184.47,9.22,6.1
+INV-00900,A,Vadodara,Normal,Female,Fashion accessories,26.27,9,11.82,248.25,4/3/2025,18:10,Cash,236.43,11.82,7.9
+INV-00901,A,Vadodara,Member,Female,Health and beauty,34.19,6,10.26,215.4,2/13/2025,10:20,Cash,205.14,10.26,7.2
+INV-00902,C,Ahmedabad,Member,Female,Health and beauty,27.88,7,9.76,204.92,5/13/2025,15:20,Credit card,195.16,9.76,8
+INV-00903,A,Gandhinagar,Normal,Female,Electronic accessories,32.22,4,6.44,135.32,2/24/2025,14:20,Cash,128.88,6.44,7.1
+INV-00904,A,Rajkot,Member,Female,Health and beauty,37.58,4,7.52,157.84,6/7/2025,20:30,Cash,150.32,7.52,4
+INV-00905,C,Rajkot,Member,Female,Electronic accessories,59.96,2,6,125.92,1/29/2025,15:00,Cash,119.92,6,8.5
+INV-00906,C,Surat,Member,Female,Food and beverages,62.92,5,15.73,330.33,6/3/2025,20:10,Cash,314.6,15.73,9.7
+INV-00907,C,Gandhinagar,Member,Male,Electronic accessories,48.38,8,19.35,406.39,6/3/2025,17:00,Ewallet,387.04,19.35,8.7
+INV-00908,C,Vadodara,Member,Female,Health and beauty,65.39,7,22.89,480.62,2/6/2025,14:50,Cash,457.73,22.89,4
+INV-00909,B,Ahmedabad,Member,Female,Fashion accessories,17.34,7,6.07,127.45,4/25/2025,11:50,Credit card,121.38,6.07,7.6
+INV-00910,C,Surat,Normal,Male,Food and beverages,17.9,6,5.37,112.77,6/30/2025,11:50,Credit card,107.4,5.37,6.4
+INV-00911,B,Rajkot,Member,Female,Health and beauty,25.46,3,3.82,80.2,6/7/2025,19:00,Cash,76.38,3.82,5.6
+INV-00912,B,Vadodara,Normal,Male,Electronic accessories,56.63,5,14.16,297.31,1/3/2025,14:40,Credit card,283.15,14.16,7.2
+INV-00913,B,Vadodara,Member,Male,Home and lifestyle,29.26,1,1.46,30.72,5/2/2025,12:30,Cash,29.26,1.46,6.8
+INV-00914,A,Ahmedabad,Member,Female,Sports and travel,35.5,7,12.42,260.92,2/12/2025,19:40,Credit card,248.5,12.42,7.7
+INV-00915,B,Rajkot,Member,Male,Health and beauty,46.03,9,20.71,434.98,1/7/2025,12:50,Credit card,414.27,20.71,7.1
+INV-00916,B,Gandhinagar,Member,Female,Electronic accessories,83.07,1,4.15,87.22,5/5/2025,17:30,Cash,83.07,4.15,5.5
+INV-00917,A,Vadodara,Normal,Male,Food and beverages,11.25,2,1.12,23.62,2/18/2025,16:00,Cash,22.5,1.12,6.3
+INV-00918,A,Ahmedabad,Member,Male,Health and beauty,68.44,3,10.27,215.59,5/1/2025,10:50,Ewallet,205.32,10.27,6
+INV-00919,A,Gandhinagar,Member,Male,Health and beauty,70.2,3,10.53,221.13,3/14/2025,14:00,Cash,210.6,10.53,
+INV-00920,C,Rajkot,Normal,Female,Sports and travel,,8,32.75,687.79,2/10/2025,18:30,Cash,655.04,32.75,5.2
+INV-00921,A,Vadodara,Normal,Female,Electronic accessories,93.95,7,32.88,690.53,4/16/2025,13:00,Ewallet,657.65,32.88,6.7
+INV-00922,A,Gandhinagar,Normal,Male,Home and lifestyle,11.81,6,3.54,74.4,3/18/2025,10:00,Cash,70.86,3.54,8.9
+INV-00923,B,Gandhinagar,Member,Male,Food and beverages,23.84,10,11.92,250.32,5/7/2025,17:10,Cash,238.4,11.92,6.3
+INV-00924,A,Gandhinagar,Normal,Female,Electronic accessories,89.76,10,44.88,942.48,4/1/2025,14:40,Ewallet,897.6,44.88,6
+INV-00925,C,Vadodara,Member,Female,Food and beverages,51.27,4,10.25,215.33,6/4/2025,11:40,Cash,205.08,10.25,5.5
+INV-00926,A,Vadodara,Member,Male,Health and beauty,60.81,9,27.36,574.65,1/8/2025,10:40,Cash,547.29,27.36,7
+INV-00927,C,Surat,Member,Male,Sports and travel,69.67,1,3.48,73.15,2/1/2025,12:20,Ewallet,69.67,3.48,8.5
+INV-00928,A,Rajkot,Member,Female,Sports and travel,71.12,2,7.11,149.35,3/5/2025,18:10,Ewallet,142.24,7.11,9.6
+INV-00929,A,Ahmedabad,Member,Female,Fashion accessories,93.86,4,18.77,394.21,5/18/2025,10:50,Credit card,375.44,18.77,7.4
+INV-00930,A,Gandhinagar,Member,Female,Home and lifestyle,99.73,,14.96,314.15,1/13/2025,13:50,Cash,299.19,14.96,7.2
+INV-00931,A,Surat,Normal,Female,Sports and travel,74.81,1,3.74,78.55,4/3/2025,17:50,Credit card,74.81,3.74,6.3
+INV-00932,C,Ahmedabad,Member,Female,Health and beauty,35.85,5,8.96,188.21,6/12/2025,17:40,Credit card,179.25,8.96,6.5
+INV-00933,C,Surat,Member,Male,Home and lifestyle,89.18,7,31.21,655.47,3/2/2025,19:40,Ewallet,624.26,31.21,7.8
+INV-00934,B,Vadodara,Member,Female,Electronic accessories,14.43,2,1.44,30.3,1/8/2025,20:10,Cash,28.86,1.44,6.6
+INV-00935,C,Gandhinagar,Normal,Male,Sports and travel,30.8,5,7.7,161.7,1/29/2025,20:00,Cash,154,7.7,6.8
+INV-00936,A,Ahmedabad,Member,Female,Home and lifestyle,90.76,6,27.23,571.79,4/5/2025,17:40,Ewallet,544.56,27.23,7
+INV-00937,B,Ahmedabad,Member,Male,Health and beauty,33.06,7,11.57,242.99,2/10/2025,19:50,Credit card,231.42,11.57,6.2
+INV-00938,B,Ahmedabad,Normal,Female,Fashion accessories,29.86,1,1.49,31.35,6/7/2025,17:00,Ewallet,29.86,1.49,6.9
+INV-00939,B,Ahmedabad,Normal,Female,Food and beverages,22.43,7,7.85,164.86,5/29/2025,13:40,Cash,157.01,7.85,4.4
+INV-00940,A,Ahmedabad,Member,Male,Food and beverages,87.32,4,17.46,366.74,1/11/2025,17:30,Ewallet,349.28,17.46,7.7
+INV-00941,C,Surat,Normal,Male,Health and beauty,55.01,8,22,462.08,1/2/2025,18:20,Cash,440.08,22,10
+INV-00942,A,Gandhinagar,Normal,Female,Health and beauty,70.74,4,14.15,297.11,6/27/2025,16:40,Credit card,282.96,14.15,6.3
+INV-00943,B,Vadodara,Normal,Female,Food and beverages,31.52,6,9.46,198.58,6/18/2025,11:30,Cash,189.12,9.46,7.5
+INV-00944,A,Vadodara,Member,Female,Fashion accessories,78.22,9,35.2,739.18,5/11/2025,18:10,Credit card,703.98,35.2,8.1
+INV-00945,A,Vadodara,Normal,Female,Home and lifestyle,78.4,5,19.6,411.6,3/21/2025,20:30,Credit card,392,19.6,8.7
+INV-00946,C,Vadodara,Member,Female,Food and beverages,38.13,4,7.63,160.15,6/28/2025,17:10,Cash,152.52,7.63,6.7
+INV-00947,C,Surat,Member,Male,Health and beauty,46.96,8,18.78,394.46,3/28/2025,14:40,Cash,375.68,18.78,4.7
+INV-00948,B,Rajkot,Member,Male,Sports and travel,28.87,9,12.99,272.82,6/2/2025,12:10,Credit card,259.83,12.99,7.3
+INV-00949,A,Gandhinagar,Member,Female,Electronic accessories,97.89,4,19.58,411.14,6/7/2025,16:30,Ewallet,391.56,19.58,7.2
+INV-00950,A,Ahmedabad,Member,Male,Fashion accessories,68.1,3,10.22,214.52,4/16/2025,11:20,Cash,204.3,10.22,6.6
+INV-00951,C,Rajkot,Normal,Male,Fashion accessories,94.11,8,37.64,790.52,5/19/2025,12:00,Credit card,752.88,37.64,6.8
+INV-00952,A,Vadodara,Member,Male,Sports and travel,37.3,5,9.33,195.83,1/17/2025,18:00,Credit card,186.5,9.33,7.2
+INV-00953,A,Rajkot,Member,Female,Sports and travel,80.37,2,8.04,168.78,6/3/2025,13:20,Ewallet,160.74,8.04,7.5
+INV-00954,A,Gandhinagar,Member,Male,Health and beauty,78.93,10,39.47,828.77,1/23/2025,13:50,Cash,789.3,39.47,7.4
+INV-00955,C,Ahmedabad,Member,Female,Food and beverages,72.25,9,32.51,682.76,6/29/2025,12:00,Credit card,650.25,32.51,6.7
+INV-00956,B,Ahmedabad,Normal,Male,Home and lifestyle,96.91,3,14.54,305.27,2/17/2025,14:40,Ewallet,290.73,14.54,7.5
+INV-00957,B,Gandhinagar,Member,Female,Fashion accessories,45.42,2,4.54,95.38,1/20/2025,12:50,Credit card,90.84,4.54,6.6
+INV-00958,A,Gandhinagar,Member,Male,Fashion accessories,21.76,1,1.09,22.85,1/2/2025,18:40,Cash,21.76,1.09,7.8
+INV-00959,B,Vadodara,Member,Female,Sports and travel,70.45,8,28.18,591.78,3/29/2025,12:30,Ewallet,563.6,28.18,6.2
+INV-00960,C,Ahmedabad,Member,Female,Food and beverages,75.64,3,11.35,238.27,1/31/2025,11:30,Credit card,226.92,11.35,7.1
+INV-00961,C,Rajkot,Member,Male,Fashion accessories,61.76,7,21.62,453.94,6/4/2025,14:50,Ewallet,432.32,21.62,4.9
+INV-00962,B,Surat,Normal,Female,Home and lifestyle,28.61,1,1.43,30.04,5/10/2025,15:50,Cash,28.61,1.43,6.5
+INV-00963,B,Surat,Normal,Female,Sports and travel,55.4,1,2.77,58.17,3/19/2025,10:50,Ewallet,55.4,2.77,7.7
+INV-00964,A,Gandhinagar,Member,Female,Home and lifestyle,38.1,9,17.14,360.04,1/4/2025,20:50,Cash,342.9,17.14,5.7
+INV-00965,B,Vadodara,Normal,Female,Food and beverages,48.47,8,19.39,407.15,5/21/2025,15:10,Credit card,387.76,19.39,6.6
+INV-00966,A,Surat,Normal,Female,Fashion accessories,68.07,3,10.21,214.42,6/12/2025,19:50,Cash,204.21,10.21,4
+INV-00967,A,Ahmedabad,Normal,Female,Electronic accessories,77.07,6,23.12,485.54,5/8/2025,12:50,Credit card,462.42,23.12,
+INV-00968,C,Gandhinagar,Member,Female,Fashion accessories,30.9,3,4.64,97.34,5/14/2025,13:30,Credit card,92.7,4.64,5.6
+INV-00969,C,Rajkot,Member,Female,Food and beverages,46.48,4,9.3,195.22,1/31/2025,15:40,Cash,185.92,9.3,7.1
+INV-00970,C,Gandhinagar,Member,Male,Fashion accessories,34.22,1,1.71,35.93,5/18/2025,17:30,Credit card,34.22,1.71,7.4
+INV-00971,C,Rajkot,Normal,Male,Fashion accessories,27.88,5,6.97,146.37,1/21/2025,18:00,Ewallet,139.4,6.97,6.9
+INV-00972,B,Gandhinagar,Normal,Female,Health and beauty,80.5,1,4.03,84.53,1/23/2025,15:10,Credit card,80.5,4.03,
+INV-00973,C,Gandhinagar,Member,Female,Fashion accessories,91.83,1,4.59,96.42,5/11/2025,16:10,Cash,91.83,4.59,6.5
+INV-00974,B,Gandhinagar,Member,Male,Fashion accessories,43.32,10,21.66,454.86,6/9/2025,14:40,Ewallet,433.2,21.66,7.9
+INV-00975,C,Rajkot,Normal,Male,Home and lifestyle,77.62,7,27.17,570.51,5/28/2025,18:50,Ewallet,543.34,27.17,7.3
+INV-00976,B,Rajkot,Normal,Male,Electronic accessories,90.73,6,27.22,571.6,1/29/2025,13:30,Credit card,544.38,27.22,6.6
+INV-00977,A,Gandhinagar,Normal,Female,Home and lifestyle,86.15,2,8.62,180.92,4/15/2025,19:00,Credit card,172.3,8.62,8.7
+INV-00978,B,Surat,Normal,Male,Home and lifestyle,26.45,2,2.64,55.54,2/21/2025,20:30,Cash,52.9,2.64,9.5
+INV-00979,B,Vadodara,Member,Female,Sports and travel,96.07,7,33.62,706.11,4/25/2025,15:50,Ewallet,672.49,33.62,5.4
+INV-00980,C,Vadodara,Member,Female,Health and beauty,43.9,1,2.19,46.09,6/23/2025,14:50,Cash,43.9,2.19,7.7
+INV-00981,B,Vadodara,Normal,Male,Home and lifestyle,40.53,2,4.05,85.11,6/11/2025,10:20,Credit card,81.06,4.05,10
+INV-00982,A,Rajkot,Member,Female,Food and beverages,15.62,8,6.25,131.21,4/11/2025,14:30,Ewallet,124.96,6.25,7.4
+INV-00983,A,Rajkot,Member,Female,Food and beverages,53.76,6,16.13,338.69,3/25/2025,14:40,Cash,322.56,16.13,7.2
+INV-00984,C,Surat,Normal,Female,Fashion accessories,19.81,2,1.98,41.6,3/2/2025,18:30,Cash,39.62,1.98,6.9
+INV-00985,A,Vadodara,Member,Female,Sports and travel,32.37,7,11.33,237.92,5/5/2025,10:10,Cash,226.59,11.33,7.6
+INV-00986,B,Vadodara,Normal,Male,Health and beauty,38.52,4,7.7,161.78,3/12/2025,14:00,Cash,154.08,7.7,8
+INV-00987,A,Gandhinagar,Member,Male,Health and beauty,82.79,2,8.28,173.86,3/11/2025,16:40,Cash,165.58,8.28,5.4
+INV-00988,C,Rajkot,Normal,Female,Fashion accessories,88.79,6,26.64,559.38,5/19/2025,20:20,Ewallet,532.74,26.64,7
+INV-00989,B,Vadodara,Member,Female,Food and beverages,37.22,9,16.75,351.73,4/18/2025,15:00,Cash,334.98,16.75,4
+INV-00990,C,Surat,Member,Male,Electronic accessories,87.28,9,39.28,824.8,1/21/2025,15:00,Ewallet,785.52,39.28,6.7
+INV-00991,B,Surat,Normal,Female,Sports and travel,87.15,8,34.86,732.06,5/11/2025,16:10,Cash,697.2,34.86,5.8
+INV-00992,A,Vadodara,Member,Male,Fashion accessories,78.82,3,11.82,248.28,3/23/2025,15:10,Credit card,236.46,11.82,7.4
+INV-00993,C,Rajkot,Normal,Female,Sports and travel,23.2,3,3.48,73.08,3/29/2025,14:10,Credit card,69.6,3.48,4.8
+INV-00994,C,Surat,Normal,Female,Food and beverages,72.13,2,7.21,151.47,4/21/2025,19:40,Cash,144.26,7.21,6.3
+INV-00995,B,Gandhinagar,Member,Male,Food and beverages,95.05,5,23.76,499.01,1/10/2025,14:30,Credit card,475.25,23.76,8.3
+INV-00996,C,Surat,Member,Male,Electronic accessories,71.43,4,14.29,300.01,6/4/2025,18:00,Ewallet,285.72,14.29,6.1
+INV-00997,B,Ahmedabad,Member,Male,Electronic accessories,39.85,7,13.95,292.9,1/12/2025,17:30,Cash,278.95,13.95,4.5
+INV-00998,B,Ahmedabad,Member,Male,Health and beauty,55.05,4,11.01,231.21,1/7/2025,19:30,Ewallet,220.2,11.01,7.3
+INV-00999,B,Rajkot,Normal,Female,Sports and travel,68.12,9,30.65,643.73,5/25/2025,13:10,Cash,613.08,30.65,6.2
+INV-01000,B,Vadodara,Normal,Male,Sports and travel,55.95,2,5.6,117.5,4/24/2025,13:30,Credit card,111.9,5.6,6.8
+INV-00021,B,Surat,Normal,Male,Health and beauty,79.25,4,15.85,332.85,6/8/2025,15:00,Credit card,317,15.85,6
+INV-00101,B,Rajkot,Member,Female,Health and beauty,23.54,1,1.18,24.72,1/31/2025,10:50,Credit card,23.54,1.18,7.8
+INV-00251,B,Ahmedabad,Member,Female,Electronic accessories,55.22,2,5.52,115.96,2/25/2025,19:30,Ewallet,110.44,5.52,6.3
